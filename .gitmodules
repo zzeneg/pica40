@@ -1,0 +1,9 @@
+[submodule "lib/kbd"]
+	path = lib/kbd
+	url = ../../foostan/kbd.git
+[submodule "lib/Type-C.pretty"]
+	path = lib/Type-C.pretty
+	url = ../../ai03-2725/Type-C.pretty.git
+[submodule "lib/Keebio-Parts.pretty"]
+	path = lib/Keebio-Parts.pretty
+	url = ../../keebio/Keebio-Parts.pretty.git
