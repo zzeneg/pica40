@@ -1,4 +1,4 @@
-(footprint "CherryMX_Hotswap_1.5" (version 20211014) (generator pcbnew)
+(footprint "CherryMX_Hotswap_1.5_reversed" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5E989CA9)
   (attr through_hole)
@@ -82,13 +82,13 @@
         ) (width 0.1) (fill yes))
     ) (tstamp d2645972-8fd5-48d0-819c-ddc8a29dddee))
   (model "../lib/kbd/kicad-packages3D/kbd.3dshapes/CherryMX Switch.step" hide
-    (offset (xyz 0 0 0))
+    (offset (xyz 0 0 -2))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 180 0))
   )
   (model "../lib/kbd/kicad-packages3D/kbd.3dshapes/Kailh-CherryMX-Socket.step"
-    (offset (xyz 0 0 -3.5))
+    (offset (xyz 1 7.5 2))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 180 0 0))
   )
 )

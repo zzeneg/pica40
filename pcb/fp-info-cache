@@ -1,4 +1,4 @@
-20642613247826230
+20650875665265135
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87423,12 +87423,47 @@ CherryMX_Hotswap_1.5
 4
 2
 pica
-D_SOD123
+CherryMX_Hotswap_1.5_reversed
 
 
 0
+4
 2
+pica
+CherryMX_Hotswap_reversed
+
+
+0
+4
 2
+pica
+D3_SMD
+Resitance 3 pas
+R
+0
+4
+2
+pica
+D3_SMD_reversed
+Resitance 3 pas
+R
+0
+4
+2
+pica
+RotaryEncoder_EC11-no-legs
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+pica
+SK6812-MINI-E
+
+
+0
+8
+4
 typec
 12401598E4#2A
 
