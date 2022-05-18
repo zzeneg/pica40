@@ -203,5 +203,8 @@
   (gr_arc (start 106.5 56.5) (mid 106.93934 55.43934) (end 108 55) (layer "Edge.Cuts") (width 0.1) (tstamp e5864f4f-ed85-421f-a37f-8e3152f2a912))
   (gr_line (start 68.5 76) (end 68.5 111) (layer "Edge.Cuts") (width 0.1) (tstamp ee90bd04-dbe3-4387-9322-7627c41b56d4))
   (gr_line (start 154 132.5) (end 172.5 137.5) (layer "Edge.Cuts") (width 0.1) (tstamp f8242024-a296-47b6-b1fa-b3c62bac7e48))
+  (gr_text "JLCJLCJLCJLC" (at 198.5 59.25) (layer "F.SilkS") (tstamp 0e5d49c5-6527-49b2-9589-e218290cd7c9)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
 
 )
