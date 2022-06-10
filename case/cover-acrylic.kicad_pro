@@ -364,7 +364,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pica40.kicad_pro",
+    "filename": "cover-acrylic.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -396,7 +396,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
