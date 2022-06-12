@@ -1,4 +1,7 @@
 */*-backups
 
-*/gerber
+pcb/gerber
+
+case/gerber
+case/dxf
 

@@ -95,7 +95,7 @@
 
   (footprint "pica:logo" (layer "F.Cu")
     (tedit 0) (tstamp 11d0237d-5bdc-4aa3-9019-0635ce7cfcd0)
-    (at 132.25 102.695176)
+    (at 132.25 105.195176)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -3008,7 +3008,7 @@
 
   (footprint "pica:logo_mirror" (layer "B.Cu")
     (tedit 0) (tstamp 562e6b14-6e55-4a81-b333-3a7b4c1cfbbc)
-    (at 132.25 102.695176 180)
+    (at 132.25 105.195176 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "B.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
@@ -5882,22 +5882,22 @@
   (gr_line (start 125.000001 66) (end 142.037034 66) (layer "Edge.Cuts") (width 0.1) (tstamp c03e6331-cfdc-45ba-93fc-ae59f9029e44))
   (gr_line (start 142.037034 121) (end 125 121) (layer "Edge.Cuts") (width 0.1) (tstamp dc8a7c92-5b99-4a26-bb23-fa406b55dc6a))
   (gr_arc (start 123.5 67.5) (mid 123.939342 66.439341) (end 125.000001 66) (layer "Edge.Cuts") (width 0.1) (tstamp fa29fcb2-c17d-4aa7-a6ce-8c91651c752e))
-  (gr_text "PicaPica" (at 133.25 95.25) (layer "B.SilkS") (tstamp 5d7893e7-dceb-4968-84bd-16dd7435eba4)
-    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
+  (gr_text "PicaPica" (at 133.25 98.5) (layer "B.SilkS") (tstamp 5d7893e7-dceb-4968-84bd-16dd7435eba4)
+    (effects (font (size 2 2) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "github.com/zzeneg/pica40" (at 133.5 109.5) (layer "B.SilkS") (tstamp c3b87f64-61e4-47cd-8845-071866e491d0)
+  (gr_text "github.com/zzeneg/pica40" (at 133.5 112) (layer "B.SilkS") (tstamp c3b87f64-61e4-47cd-8845-071866e491d0)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
   )
   (gr_text "JLCJLCJLCJLC" (at 133.25 77.75) (layer "B.SilkS") (tstamp e63fc8ed-fdfb-40af-89a3-cfe8fa99130e)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "PicaPica" (at 133.25 95.25) (layer "F.SilkS") (tstamp 1d19d6fd-fdf0-494b-86f5-b71b507e1b61)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  (gr_text "PicaPica" (at 133.25 98.5) (layer "F.SilkS") (tstamp 1d19d6fd-fdf0-494b-86f5-b71b507e1b61)
+    (effects (font (size 2 2) (thickness 0.3)))
   )
-  (gr_text "github.com/zzeneg/pica40" (at 133.5 109.5) (layer "F.SilkS") (tstamp 83ed897a-e9d9-4212-89d1-91544f6838db)
+  (gr_text "github.com/zzeneg/pica40" (at 133.5 112) (layer "F.SilkS") (tstamp 83ed897a-e9d9-4212-89d1-91544f6838db)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
 
-  (via (at 125.999998 99.445175) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 0) (tstamp 6ab47ef9-6b9e-48a2-a6e8-1162c02e4e3d))
+  (via (at 125.999998 101.945175) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 0) (tstamp 6ab47ef9-6b9e-48a2-a6e8-1162c02e4e3d))
 
 )
