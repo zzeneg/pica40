@@ -31,7 +31,7 @@
   (pad "3" smd roundrect (at 2.55 -0.75) (size 1.7 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0)
     (chamfer_ratio 0.5) (chamfer top_right) (tstamp d65b3554-9639-4e0c-9b6f-193c980cdb02))
   (pad "4" smd rect (at 2.55 0.75) (size 1.7 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0c61985a-80db-49b1-8f3d-d5c22ebabaf2))
-  (pad "4" smd rect (at 2.55 -0.75) (size 1.7 0.82) (layers "B.Cu" "F.Paste" "B.Mask") (tstamp 703100f9-221b-45d8-a38e-d1435a2ebc00))
+  (pad "4" smd rect (at 2.55 -0.75) (size 1.7 0.82) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 703100f9-221b-45d8-a38e-d1435a2ebc00))
   (model "../lib/kbd/kicad-packages3D/kbd.3dshapes/YS-SK6812MINI-E.step"
     (offset (xyz 0 0 -2))
     (scale (xyz 1 1 1))
