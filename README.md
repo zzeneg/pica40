@@ -4,7 +4,7 @@ Split keyboard with 40 keys and USB-C connection between halves.
 
 _Pica pica - european (common) magpie_
 
-## ⚠️ design stage only, not built yet ⚠️
+## ⚠️ prototype stage only, manufactured but not built yet ⚠️
 
 ## Features
 
@@ -19,12 +19,12 @@ _Pica pica - european (common) magpie_
 
 ## Renders
 
-MCU side
+Left (MCU) side
 
 <img src='images\render-pcb-left-front.png' width="600">
 <img src='images\render-pcb-left-back.png' width="600">
 
-Second side
+Right side
 
 <img src='images\render-pcb-right-front.png' width="600">
 <img src='images\render-pcb-right-back.png' width="600">
