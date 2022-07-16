@@ -1,4 +1,4 @@
-20659153880328161
+20662467102484516
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86919,6 +86919,13 @@ MountingHole
 1
 0
 keebio
+NovelKeys_Kailh_Big_Series_Switch
+
+
+0
+2
+2
+keebio
 Pin_Header_Straight_2x03_Pitch1.00mm
 Through hole straight pin header, 2x03, 1.00mm pitch, double rows
 Through hole pin header THT 2x03 1.00mm double row
@@ -87413,14 +87420,14 @@ CherryMX_Hotswap
 
 
 0
-4
+2
 2
 pica
 CherryMX_Hotswap_1.5
 
 
 0
-4
+2
 2
 pica
 CherryMX_Hotswap_1.5_reversed
@@ -87441,7 +87448,7 @@ D3_SMD
 Resitance 3 pas
 R
 0
-4
+2
 2
 pica
 D3_SMD_reversed
@@ -87472,6 +87479,13 @@ connector JST PH top entry
 2
 2
 pica
+ProMicro
+
+
+0
+24
+24
+pica
 RotaryEncoder_EC11-no-legs
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
@@ -87483,7 +87497,7 @@ SK6812-MINI-E
 
 
 0
-8
+4
 4
 pica
 logo
