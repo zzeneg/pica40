@@ -1,6 +1,6 @@
 # Pica40
 
-Split keyboard with 40 keys and USB-C connection between halves.
+Split keyboard with 40 keys and 1 ProMicro-compatible controller.
 
 _Pica pica - european (common) magpie_
 
