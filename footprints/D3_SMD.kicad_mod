@@ -23,8 +23,8 @@
   (fp_line (start -2.95 0.75) (end 2.7 0.75) (layer "F.SilkS") (width 0.15) (tstamp 90c369c7-da94-429c-bdf5-28a92d622e98))
   (fp_line (start -2.7 -0.75) (end -2.7 0.75) (layer "F.SilkS") (width 0.15) (tstamp 97ff4aa3-18db-424e-80ac-fa5f23817ec3))
   (fp_line (start -2.95 -0.75) (end -2.95 0.75) (layer "F.SilkS") (width 0.15) (tstamp ad0a78e4-5953-44c4-99a2-e1bc466171b6))
-  (pad "1" smd rect (at -1.775 0) (size 1.3 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6a39efd6-8765-4480-978f-c790faa35b68))
-  (pad "2" smd rect (at 1.775 0) (size 1.3 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4f374d4e-0028-4db1-8631-acb148712289))
+  (pad "1" smd rect (at -1.7 0) (size 1.5 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6a39efd6-8765-4480-978f-c790faa35b68))
+  (pad "2" smd rect (at 1.7 0) (size 1.5 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4f374d4e-0028-4db1-8631-acb148712289))
   (model "../lib/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

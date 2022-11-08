@@ -1,4 +1,4 @@
-20662467102484516
+20842928703139909
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -1380,8 +1380,8 @@ Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/A
 2
 Button_Switch_SMD
 SW_SPST_EVQP2
-Light Touch Switch
-
+Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000C374.pdf
+SMD SMT SPST EVQP2
 0
 4
 2
@@ -2250,6 +2250,13 @@ Buzzer_Beeper
 Buzzer_Mallory_AST1109MLTRQ
 Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf
 buzzer piezo
+0
+2
+2
+Buzzer_Beeper
+Buzzer_Mallory_AST1240MLQ
+Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST12140MLQ.pdf
+piezo buzzer
 0
 2
 2
@@ -3781,8 +3788,8 @@ CP Radial series Radial pin pitch 7.50mm  diameter 18mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, , diameter=22mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm  diameter 22mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=22mm, height=40mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 22mm height 40mm Electrolytic Capacitor
 0
 3
 2
@@ -3795,8 +3802,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 22mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, , diameter=24mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm  diameter 24mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=24mm, height=40mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 24mm height 40mm Electrolytic Capacitor
 0
 3
 2
@@ -3809,8 +3816,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 24mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D25.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, , diameter=25mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm  diameter 25mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=25mm, height=45mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 25mm height 45mm Electrolytic Capacitor
 0
 3
 2
@@ -3823,8 +3830,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 25mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D26.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, , diameter=26mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm  diameter 26mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=26mm, height=45mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 26mm height 45mm Electrolytic Capacitor
 0
 3
 2
@@ -3837,8 +3844,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 26mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D30.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, , diameter=30mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm  diameter 30mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=30mm, height=45mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 30mm height 45mm Electrolytic Capacitor
 0
 3
 2
@@ -3851,8 +3858,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 30mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D35.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, , diameter=35mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm  diameter 35mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=35mm, height=50mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 35mm height 50mm Electrolytic Capacitor
 0
 3
 2
@@ -3865,8 +3872,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 35mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D40.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, , diameter=40mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm  diameter 40mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=40mm, height=50mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 40mm height 50mm Electrolytic Capacitor
 0
 3
 2
@@ -10909,6 +10916,13 @@ Connector_HDMI
 HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle
 HDMI, Type A, Kycon KDMIX-SL1-NS-WS-B15, Vertical Right Angle, http://www.kycon.com/Pub_Eng_Draw/KDMIX-SL1-NS-WS-B15.pdf
 hdmi type a
+0
+23
+20
+Connector_HDMI
+HDMI_A_Molex_208658-1001_Horizontal
+HDMI Molex Type A https://www.molex.com/pdm_docs/sd/2086581001_sd.pdf
+HDMI Molex Type A
 0
 23
 20
@@ -42035,6 +42049,13 @@ AJP92A8813 8P8C RJ45 ethernet plug
 8
 8
 Connector_RJ
+RJ45_Pulse_JK00177NL_Horizontal
+10/100/1000 Base-T RJ45 single port with LEDs and 75W POE, https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/J432/doc_part/J432.pdf
+RJ45 8p8c ethernet POE
+0
+22
+21
+Connector_RJ
 RJ45_Pulse_JK0654219NL_Horizontal
 10/100/1000 Base-T RJ45 single port with LEDs https://media.digikey.com/pdf/Data%20Sheets/Pulse%20PDFs/JK%20Series.pdf#page=2
 RJ45 8p8c ethernet
@@ -42120,10 +42141,10 @@ FMC HPC
 400
 Connector_Samtec
 Samtec_FMC_ASP-134604-01_4x40_Vertical
-http://www.samtec.com/standards/vita.aspx
+https://suddendocs.samtec.com/prints/asp-134604-01-mkt.pdf
 FMC LPC VITA 
 0
-162
+160
 160
 Connector_Samtec
 Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical
@@ -45709,6 +45730,13 @@ usb A plug horizontal
 0
 11
 10
+Connector_USB
+USB3_Micro-B_Connfly_DS1104-01
+Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://en.connfly.com/static/upload/file/pdf/DS1104-01.pdf)
+USB 3.0 Micro B SMD right angle
+0
+16
+11
 Connector_USB
 USB_A_CNCTech_1001-011-01101_Horizontal
 USB type A Plug, Horizontal, http://cnctech.us/pdfs/1001-011-01101.pdf
@@ -56868,6 +56896,20 @@ LED RGB APFA3010 KINGBRIGHT 3x1.5mm
 4
 4
 LED_SMD
+LED_Kingbright_APHBM2012_2x1.25mm
+Dual LED SMD https://www.kingbrightusa.com/KCpack.asp?txtPack=APHBM2012
+LED Kingbright APHM2012
+0
+4
+4
+LED_SMD
+LED_Kingbright_KPBD-3224
+Kingbright, dual LED, red-green, dome lens, 3.2 x 2.4 mm Surface Mount LED Lamp (https://www.kingbright.com/attachments/file/psearch/000/00/00/KPBD-3224SURKCGKC(Ver.20A).pdf)
+Kingbright dual LED KPBD-3224
+0
+4
+4
+LED_SMD
 LED_LiteOn_LTST-C19HE1WT
 LiteOn RGB LED; https://optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf
 LED RGB Chip SMD
@@ -61579,6 +61621,20 @@ Analog Devices (Linear Tech), 133-pin BGA uModule, 15.0x15.0x4.92mm, https://www
 134
 134
 Package_BGA
+MAPBGA_9x9mm_Layout17x17_P0.5mm
+MAPBGA 9x9x1.11 PKG, 9.0x9.0mm, 272 Ball, 17x17 Layout, 0.5mm Pitch, https://www.nxp.com/docs/en/package-information/98ASA00869D.pdf#page=1
+BGA 272 0.5
+0
+272
+272
+Package_BGA
+MAPBGA_14x14mm_Layout17x17_P0.8mm
+MAPBGA 14x14x1.18 PKG, 14.0x14.0mm, 289 Ball, 17x17 Layout, 0.8mm Pitch, https://www.nxp.com/docs/en/package-information/98ASA00855D.pdf#page=1
+BGA 289 0.8
+0
+289
+289
+Package_BGA
 Maxim_WLP-9_1.595x1.415_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm_NSMD
 Maxim_WLP-9 W91C1+1 https://pdfserv.maximintegrated.com/package_dwgs/21-0459.PDF
 Maxim_WLP-9
@@ -61599,6 +61655,48 @@ BGA 196 0.75
 0
 196
 196
+Package_BGA
+Micron_FBGA-78_7.5x10.6mm_Layout9x13_P0.8mm
+FBGA-78, 10.6x7.5mm, 78 Ball, 9x13 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=24
+BGA 78 0.8
+0
+78
+78
+Package_BGA
+Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm
+FBGA-78, 10.5x8.0mm, 78 Ball, 9x13 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=25
+BGA 78 0.8
+0
+78
+78
+Package_BGA
+Micron_FBGA-78_9x10.5mm_Layout9x13_P0.8mm
+FBGA-78, 10.5x9.0mm, 78 Ball, 9x13 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=23
+BGA 78 0.8
+0
+78
+78
+Package_BGA
+Micron_FBGA-96_7.5x13.5mm_Layout9x16_P0.8mm
+FBGA-96, 13.5x7.5mm, 96 Ball, 9x16 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=27
+BGA 96 0.8
+0
+96
+96
+Package_BGA
+Micron_FBGA-96_8x14mm_Layout9x16_P0.8mm
+FBGA-96, 14.0x8.0mm, 96 Ball, 9x16 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=28
+BGA 96 0.8
+0
+96
+96
+Package_BGA
+Micron_FBGA-96_9x14mm_Layout9x16_P0.8mm
+FBGA-96, 14.0x9.0mm, 96 Ball, 9x16 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=26
+BGA 96 0.8
+0
+96
+96
 Package_BGA
 ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm
 ST uTFBGA-36, 0.25mm pad, 3.6x3.6mm, 36 Ball, 6x6 Layout, 0.5mm Pitch, https://www.st.com/resource/en/datasheet/stulpi01a.pdf
@@ -62510,6 +62608,13 @@ LFCSP-WD NoLead
 24
 11
 Package_CSP
+Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm
+WLCSP-35, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF
+CSP 35 0.4
+0
+35
+35
+Package_CSP
 ST_WLCSP-25_Die425
 WLCSP-25, 5x5 raster, 2.097x2.493mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32l031f6.pdf
 BGA 25 0.4
@@ -62793,6 +62898,13 @@ Package_CSP
 WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm
 X1-WLB0909, 0.89x0.89mm, 4 Ball, 2x2 Layout, 0.5mm Pitch, https://www.diodes.com/assets/Datasheets/AP22913.pdf
 CSP 4 0.5
+0
+4
+4
+Package_CSP
+WLCSP-4_0.64x0.64mm_P0.35mm
+WLCSP-4, 0.64x0.64mm, 4 Ball, 2x2 Layout, 0.35mm Pitch, https://www.onsemi.com/pdf/datasheet/ncp163-d.pdf#page=23
+CSP 4 0.35
 0
 4
 4
@@ -63257,6 +63369,20 @@ DDB Package; 12-Lead Plastic DFN (3mm x 2mm) (see Linear Technology DFN_12_05-08
 DFN 0.45
 0
 15
+13
+Package_DFN_QFN
+DFN-12-1EP_3x3mm_P0.5mm_EP1.6x2.5mm
+DFN, 12 Pin (https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MIC2207-2MHz-3A-PWM-Buck-Regulator-DS20006470A.pdf#page=22), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+17
+13
+Package_DFN_QFN
+DFN-12-1EP_3x3mm_P0.5mm_EP1.6x2.5mm_ThermalVias
+DFN, 12 Pin (https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MIC2207-2MHz-3A-PWM-Buck-Regulator-DS20006470A.pdf#page=22), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+24
 13
 Package_DFN_QFN
 DFN-12-1EP_3x3mm_P0.5mm_EP2.05x2.86mm
@@ -64344,6 +64470,20 @@ QFN NoLead
 55
 29
 Package_DFN_QFN
+QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm
+QFN, 28 Pin (https://www.cmlmicro.com/wp-content/uploads/2017/10/CMX901_ds.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+38
+29
+Package_DFN_QFN
+QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm_ThermalVias
+QFN, 28 Pin (https://www.cmlmicro.com/wp-content/uploads/2017/10/CMX901_ds.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+91
+29
+Package_DFN_QFN
 QFN-28-1EP_5x6mm_P0.5mm_EP3.65x4.65mm
 QFN, 28 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/05081932_0_UHE28.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -64897,6 +65037,20 @@ QFN NoLead
 104
 53
 Package_DFN_QFN
+QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm
+QFN, 56 Pin (https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf#page=634), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+61
+57
+Package_DFN_QFN
+QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm_ThermalVias
+QFN, 56 Pin (https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf#page=634), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+66
+57
+Package_DFN_QFN
 QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm
 QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -65302,6 +65456,13 @@ TDFN DFN 0.5mm
 0
 17
 9
+Package_DFN_QFN
+TDFN-8_1.4x1.6mm_P0.4mm
+TDFN, 8 Pin (https://www.silabs.com/documents/public/data-sheets/si7210-datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+8
+8
 Package_DFN_QFN
 TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm
 TDFN, 10 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0429.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -66537,6 +66698,20 @@ WQFN NoLead
 Package_DFN_QFN
 WQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias
 WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tpa6132a2.pdf#page=24), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead
+0
+26
+17
+Package_DFN_QFN
+WQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm
+WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tlv9064.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead
+0
+21
+17
+Package_DFN_QFN
+WQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm_ThermalVias
+WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tlv9064.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
 WQFN NoLead
 0
 26
@@ -71302,6 +71477,13 @@ SSOP 0.65 exposed pad
 18
 15
 Package_SO
+TSSOP-14_4.4x3.6mm_P0.4mm
+TSSOP, 14 Pin (JEDEC MO-194 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+14
+14
+Package_SO
 TSSOP-14_4.4x5mm_P0.65mm
 TSSOP, 14 Pin (JEDEC MO-153 Var AB-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
@@ -71330,12 +71512,26 @@ TSSOP SO
 26
 17
 Package_SO
+TSSOP-16_4.4x3.6mm_P0.4mm
+TSSOP, 16 Pin (JEDEC MO-194 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+16
+16
+Package_SO
 TSSOP-16_4.4x5mm_P0.65mm
 TSSOP, 16 Pin (JEDEC MO-153 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
 0
 16
 16
+Package_SO
+TSSOP-20_4.4x5mm_P0.4mm
+TSSOP, 20 Pin (JEDEC MO-194 Var AC https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+20
+20
 Package_SO
 TSSOP-20_4.4x5mm_P0.5mm
 TSSOP, 20 Pin (JEDEC MO-153 Var BA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -71638,6 +71834,13 @@ TSSOP SO
 52
 52
 Package_SO
+TSSOP-56_4.4x11.3mm_P0.4mm
+TSSOP, 56 Pin (JEDEC MO-194 Var AF https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+56
+56
+Package_SO
 TSSOP-56_6.1x12.5mm_P0.4mm
 TSSOP, 56 Pin (JEDEC MO-153 Var FD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
@@ -71707,6 +71910,13 @@ TSSOP SO
 0
 80
 80
+Package_SO
+TSSOP-100_6.1x20.8mm_P0.4mm
+TSSOP, 100 Pin (JEDEC MO-194 Var BB https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+100
+100
 Package_SO
 Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm
 Texas Instruments HSOP 9, 1.27mm pitch, 3.9x4.9mm body, exposed pad, DDA0008J (http://www.ti.com/lit/ds/symlink/tps5430.pdf)
@@ -76356,6 +76566,13 @@ ESP WROOM-02 espressif esp8266ex
 19
 19
 RF_Module
+ESP32-S2-MINI-1
+2.4 GHz Wi-Fi and Bluetooth combo chip, external antenna, https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf
+2.4 GHz Wi-Fi Bluetooth external antenna espressif  20*15.4mm
+0
+73
+65
+RF_Module
 ESP32-S2-MINI-1U
 2.4 GHz Wi-Fi and Bluetooth combo chip, external antenna, https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf
 2.4 GHz Wi-Fi Bluetooth external antenna espressif  15.4*15.4mm
@@ -78722,6 +78939,13 @@ DFN Sensor optical IR
 8
 8
 Sensor
+LuminOX_LOX-O2
+SST LuminOX Luminescence-based O2 sensor, https://sstsensing.com/wp-content/uploads/2021/08/DS0030rev15_LuminOx.pdf
+SST LuminOX O2
+0
+4
+4
+Sensor
 MQ-6
 Gas Sensor, 6 pin, https://www.winsen-sensor.com/d/files/semiconductor/mq-6.pdf
 gas sensor
@@ -78749,6 +78973,20 @@ co2 gas sensor pwm modbus
 0
 9
 9
+Sensor
+Sensirion_SCD4x-1EP_10.1x10.1mm_P1.25mm_EP4.8x4.8mm
+Sensirion SCD4x QFN, 20 Pin (https://sensirion.com/media/documents/C4B87CE6/627C2DCD/CD_DS_SCD40_SCD41_Datasheet_D1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Sensirion QFN NoLead
+0
+25
+21
+Sensor
+Winson_GM-402B_5x5mm_P1.27mm
+Winson GM-402B, 8 Pin (https://www.winsen-sensor.com/d/files/me2/mems--gm-402b--manual-v1_1.pdf)
+Winson
+0
+8
+8
 Sensor_Audio
 CUI_CMC-4013-SMT
 Omnidirectional, -42dB, reflowable, electret condenser microphone https://www.cuidevices.com/product/resource/cmc-4013-smt-tr.pdf
@@ -84448,6 +84686,13 @@ Ethernet Transformer
 16
 16
 Transformer_SMD
+Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm
+YDS 30F-51NL SO, 24 Pin (https://datasheet.lcsc.com/lcsc/1811051610_Shanghai-YDS-Tech-30F-51NL_C123168.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+YDS SO Transformer_SMD
+0
+24
+24
+Transformer_SMD
 Transformer_MACOM_SM-22
 https://cdn.macom.com/datasheets/ETC1-1-13.pdf
 RF Transformer
@@ -87415,6 +87660,104 @@ solder_jumper
 0
 2
 2
+kleeb-mcu
+holyiot-18010
+
+
+0
+55
+55
+kleeb-mcu
+holyiot-18010-no-underside
+
+
+0
+37
+37
+kleeb-mcu
+ms88sf3
+
+
+0
+64
+64
+kleeb-mcu
+rp2040-zero-smd
+
+
+0
+23
+23
+kleeb-mcu
+rp2040-zero-smd-pads
+
+
+0
+33
+33
+kleeb-mcu
+rp2040-zero-smd-pads-cutout
+
+
+0
+33
+33
+kleeb-mcu
+rp2040-zero-tht
+
+
+0
+23
+23
+kleeb-mcu
+rp2040-zero-tht-pads
+
+
+0
+33
+33
+kleeb-mcu
+rp2040-zero-tht-pads-cutout
+
+
+0
+33
+33
+kleeb-mcu
+xiao-ble-smd
+
+
+0
+22
+22
+kleeb-mcu
+xiao-ble-smd-cutout
+
+
+0
+22
+22
+kleeb-mcu
+xiao-ble-tht
+
+
+0
+22
+22
+kleeb-mcu
+xiao-smd
+
+
+0
+18
+18
+kleeb-mcu
+xiao-tht
+
+
+0
+18
+18
 pica
 CherryMX_Hotswap
 
@@ -87435,6 +87778,20 @@ CherryMX_Hotswap_1.5_reversed
 
 0
 4
+2
+pica
+CherryMX_Hotswap_ChocV2
+
+
+0
+5
+2
+pica
+CherryMX_Hotswap_ChocV2_1.5
+
+
+0
+5
 2
 pica
 CherryMX_Hotswap_reversed
@@ -87472,7 +87829,14 @@ EC11_Hole_Breakaway
 0
 0
 pica
-JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal
+HRO-TYPE-C-31-M-12-data
+
+
+0
+12
+9
+pica
+JST_PH_S2B-PH-K_1x02_P2.00mm
 JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
 connector JST PH top entry
 0
@@ -87485,6 +87849,13 @@ ProMicro
 0
 24
 24
+pica
+RotaryEncoder_EC11
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
 pica
 RotaryEncoder_EC11-no-legs
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
@@ -87513,6 +87884,20 @@ logo_mirror
 0
 0
 0
+pica
+spacer_m2_3.4
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+pica
+xiao-ble-tht
+
+
+0
+22
+22
 typec
 12401598E4#2A
 

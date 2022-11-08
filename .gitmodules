@@ -7,3 +7,6 @@
 [submodule "lib/Keebio-Parts.pretty"]
 	path = lib/Keebio-Parts.pretty
 	url = ../../keebio/Keebio-Parts.pretty.git
+[submodule "lib/kleeb"]
+	path = lib/kleeb
+	url = ../../crides/kleeb
