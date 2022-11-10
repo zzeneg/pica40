@@ -49,12 +49,13 @@ Pica40 family - ChocV2 with low profile keycaps, ChocV2 with MT3 keycaps, Pica40
 - PCB - [Full](gerbers/full.zip), [Left](gerbers/pcb-left.zip), [Right](gerbers/pcb-right.zip)
 - [Bottom plate](gerbers/bottom.zip)
 - [Top plate](gerbers/bottom.zip) (not needed for soldered switches)
+- [Big cover with hole](gerbers/cover-big-hole.zip) - over MCU and rotary encoder (for wireless version)
 
 ## Case files (DXF - for metal/acrylic plates)
 
 - [Bottom](dxf/bottom.dxf), [Bottom with tenting holes](dxf/bottom-tenting.dxf)
 - [Top](dxf/top.dxf)
-- [Small cover](dxf/cover.dxf) - over MCU only, [big cover](dxf/cover-big.dxf) - over MCU and rotary encoder space (for a half without an encoder), [big cover wth hole](dxf/cover-big-hole.dxf) - over MCU and rotary encoder (for a half with an encoder). Dark semi-transparent acrylic is recommended for those.
+- [Small cover](dxf/cover.dxf) - over MCU only, [big cover](dxf/cover-big.dxf) - over MCU and rotary encoder space (for a half without an encoder), [big cover with hole](dxf/cover-big-hole.dxf) - over MCU and rotary encoder (for a half with an encoder). Dark semi-transparent acrylic is recommended for those.
 
 ## Bill of materials
 
