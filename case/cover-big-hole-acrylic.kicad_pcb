@@ -152,13 +152,13 @@
     (pad "" np_thru_hole circle locked (at 0 0) (size 2.3 2.3) (drill 2.3) (layers *.Cu *.Mask) (tstamp ab3d1bd1-9907-494a-984d-89c1ed68dad9))
   )
 
+  (gr_arc (start 146 117) (mid 145.251221 118.302195) (end 143.75 118.25) (layer "Edge.Cuts") (width 0.1) (tstamp 0265937d-389a-4569-adb7-3bdb1f359faa))
   (gr_line (start 125.5 106) (end 125.5 60) (layer "Edge.Cuts") (width 0.1) (tstamp 0e7bcf35-35e8-48f9-8a92-d887e5e97ebb))
   (gr_arc (start 144.5 60) (mid 145.56066 60.43934) (end 146 61.5) (layer "Edge.Cuts") (width 0.1) (tstamp 177d5809-7bf6-4a77-a75a-dc330a2af5cf))
+  (gr_line (start 127 108.5) (end 143.75 118.25) (layer "Edge.Cuts") (width 0.1) (tstamp 374bce25-6a75-4a18-854b-41452efcdb7e))
   (gr_arc (start 127 108.5) (mid 125.931823 107.440906) (end 125.5 106) (layer "Edge.Cuts") (width 0.1) (tstamp 5e7685b3-41c3-4dad-91b2-e7166192e308))
-  (gr_line (start 146 114) (end 146 61.5) (layer "Edge.Cuts") (width 0.1) (tstamp 74f940de-679d-412d-9a13-697a7bfdeac9))
+  (gr_line (start 146 117) (end 146 61.5) (layer "Edge.Cuts") (width 0.1) (tstamp 74f940de-679d-412d-9a13-697a7bfdeac9))
   (gr_circle (center 136 103.25) (end 136 99.25) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 7bd64d92-9d68-4e4b-a088-7856c674c6ef))
-  (gr_arc (start 146 114) (mid 144.54209 116.680055) (end 141.5 116.912176) (layer "Edge.Cuts") (width 0.1) (tstamp 883c2722-ae64-492e-994d-36dd59073030))
   (gr_line (start 144.5 60) (end 125.5 60) (layer "Edge.Cuts") (width 0.1) (tstamp bf38f255-b1fc-4e88-be84-13d33c5fa6f2))
-  (gr_line (start 141.5 116.912176) (end 127 108.5) (layer "Edge.Cuts") (width 0.1) (tstamp ce0dd829-e293-4efd-8b53-6c3bdb6da6bf))
 
 )
