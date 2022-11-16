@@ -6,29 +6,27 @@ _Pica pica - european (common) magpie_
 
 ## Features
 
-- 40 keys - regular MX switches with hotswap sockets or soldered low-profile ChocV2 (with MX stem)
+- 40 keys
+- high profile (regular MX switches with hotswap sockets) or low profile (soldered low-profile ChocV2 switches)
 - wired/wireless versions
 - aggressive stagger
 - slightly splayed for pinky columns
 
 ### Wired version
 
-- XIAO RP 2040 controller
+- XIAO RP2040 controller
 - QMK firmware
-- USB-C connection between splits
-- rotary encoder on left side only (without click)
-- one status LED
+- USB-C or TRRS connection between splits (low profile version supports only TRRS)
+- one rotary encoder (without click)
+- status LED
 
 ### Wireless version
 
-- XIAO BLE controller
+- XIAO nRF52840 BLE controller
 - ZMK firmware
+- two rotary encoders (without click, only master side encoder is currently supported by ZMK)
 - on/off toggle
 - battery connectors
-
-## ⚠️ Known issues
-
-- wired version is not fully compatible with low profile ChocV2 switches, 1.5U keycap cannot be bottomed out because of USB-C connector - to be fixed in new revision
 
 ## Photos
 
@@ -75,3 +73,22 @@ Pica40 family - ChocV2 with low profile keycaps, ChocV2 with MT3 keycaps, Pica40
 - _[Optional]_ sockets and pins for socketing MCUs
 
 ## Build log
+
+**TODO**
+
+## Changelog
+
+### V2.1
+
+- added TRRS support
+- wired version supports rotary encoder on any side
+
+### V2
+
+- reworked to true split with two XIAO MCUs controllers
+- added splay to pinky columns
+- all case/pcb files are not compatible with V1
+
+### V1
+
+- split with single Pro Micro based MCU and handwired connection
