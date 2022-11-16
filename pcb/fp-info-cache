@@ -1,4 +1,4 @@
-20842928703139909
+20834818227302515
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87773,13 +87773,6 @@ CherryMX_Hotswap_1.5
 2
 2
 pica
-CherryMX_Hotswap_1.5_reversed
-
-
-0
-4
-2
-pica
 CherryMX_Hotswap_ChocV2
 
 
@@ -87794,13 +87787,6 @@ CherryMX_Hotswap_ChocV2_1.5
 5
 2
 pica
-CherryMX_Hotswap_reversed
-
-
-0
-4
-2
-pica
 D3_SMD
 Resitance 3 pas
 R
@@ -87808,21 +87794,7 @@ R
 2
 2
 pica
-D3_SMD_reversed
-Resitance 3 pas
-R
-0
-4
-2
-pica
 EC11_Hole
-
-
-0
-0
-0
-pica
-EC11_Hole_Breakaway
 
 
 0
@@ -87843,12 +87815,12 @@ connector JST PH top entry
 2
 2
 pica
-ProMicro
+MJ-4PP-9_1side
 
 
 0
-24
-24
+4
+4
 pica
 RotaryEncoder_EC11
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
@@ -87856,20 +87828,6 @@ rotary encoder
 0
 5
 5
-pica
-RotaryEncoder_EC11-no-legs
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-pica
-SK6812-MINI-E
-
-
-0
-4
-4
 pica
 logo
 
@@ -87879,6 +87837,13 @@ logo
 0
 pica
 logo_mirror
+
+
+0
+0
+0
+pica
+seeed-logo
 
 
 0
