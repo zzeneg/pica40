@@ -44,7 +44,7 @@ Pica40 family - ChocV2 with low profile keycaps, ChocV2 with MT3 keycaps, Pica40
 
 ## Gerber files
 
-- PCB - [Full](gerbers/full.zip), [Left](gerbers/pcb-left.zip), [Right](gerbers/pcb-right.zip)
+- PCB - [Full](gerbers/pcb-full.zip), [Left](gerbers/pcb-left.zip), [Right](gerbers/pcb-right.zip)
 - [Bottom plate](gerbers/bottom.zip)
 - [Top plate](gerbers/bottom.zip) (not needed for soldered switches)
 - [Cover with hole](gerbers/cover-hole.zip) - PCB cover over MCU and rotary encoder (recommended for wireless version)
