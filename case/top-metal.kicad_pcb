@@ -40,7 +40,7 @@
   (setup
     (pad_to_mask_clearance 0)
     (pcbplotparams
-      (layerselection 0x0000080_7ffffffe)
+      (layerselection 0x0001000_7ffffffe)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -48,7 +48,7 @@
       (creategerberjobfile false)
       (svguseinch false)
       (svgprecision 6)
-      (excludeedgelayer false)
+      (excludeedgelayer true)
       (plotframeref false)
       (viasonmask false)
       (mode 1)
@@ -56,7 +56,7 @@
       (hpglpennumber 1)
       (hpglpenspeed 20)
       (hpglpendiameter 15.000000)
-      (dxfpolygonmode true)
+      (dxfpolygonmode false)
       (dxfimperialunits false)
       (dxfusepcbnewfont true)
       (psnegative false)
@@ -100,7 +100,7 @@
     (fp_line (start 9.525 9.525) (end 9.525 -9.525) (layer "F.Fab") (width 0.15) (tstamp c88b3189-71bf-47b9-af1b-096757e6f1c1))
   )
 
-  (footprint "kbd:thread_m2" (layer "F.Cu")
+  (footprint "pica:thread_m2_hole" (layer "F.Cu")
     (tedit 5F8C61BB) (tstamp 17303938-44f9-4c37-bb09-451505e31804)
     (at 160 70.5)
     (descr "Mounting Hole 2.2mm, no annular, M2")
@@ -110,16 +110,16 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H5" (at -0.95 -0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 5acaedaf-730a-456e-8163-3638ae8056db)
+      (tstamp 6bd59cd7-bba4-43fe-bd03-794847ce6214)
     )
     (fp_text value "MountingHole" (at 0 0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp db2f2fa8-76a9-48f5-89f5-dbbb7aa3082f)
+      (tstamp d4a006ad-71eb-4243-b8c2-7a30de4307af)
     )
-    (pad "" np_thru_hole circle locked (at 0 0) (size 2.3 2.3) (drill 2.3) (layers *.Cu *.Mask) (tstamp f22b5ad3-5594-456a-b220-b5ee7eeb607a))
+    (fp_circle (center 0 0) (end 1.15 0) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 06b96793-4db7-450a-b3de-daea8b5a8c86))
   )
 
-  (footprint "kbd:thread_m2" (layer "F.Cu")
+  (footprint "pica:thread_m2_hole" (layer "F.Cu")
     (tedit 5F8C61BB) (tstamp 22ddf991-c3cc-44e3-b489-c8fdc49b08b3)
     (at 100.8 68)
     (descr "Mounting Hole 2.2mm, no annular, M2")
@@ -129,13 +129,13 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H1" (at -0.95 -0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp bc685721-eade-472e-9963-364c4c4f1282)
+      (tstamp f11b04ca-5061-42a3-8e29-d327e167c384)
     )
     (fp_text value "MountingHole" (at 0 0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6995dc4c-3dbc-4e19-832d-d7d160a2be4c)
+      (tstamp c2af3fc9-c4fd-4acc-a2d4-897d60f2641a)
     )
-    (pad "" np_thru_hole circle locked (at 0 0) (size 2.3 2.3) (drill 2.3) (layers *.Cu *.Mask) (tstamp 3f6efe3f-3a60-49d3-8e7f-5546549591a7))
+    (fp_circle (center 0 0) (end 1.15 0) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp f4dcba6e-10c1-4ddc-9d2f-9602322ab199))
   )
 
   (footprint "kbd:SW_Hole" (layer "F.Cu")
@@ -234,7 +234,7 @@
     (fp_line (start -9.525 9.525) (end 9.525 9.525) (layer "F.Fab") (width 0.15) (tstamp e1dcdc4a-09d4-451f-a48d-9c93ece3cea2))
   )
 
-  (footprint "kbd:thread_m2" (layer "F.Cu")
+  (footprint "pica:thread_m2_hole" (layer "F.Cu")
     (tedit 5F8C61BB) (tstamp 55dd5402-a052-450d-b6a7-70d6c6446893)
     (at 122 102.5)
     (descr "Mounting Hole 2.2mm, no annular, M2")
@@ -244,13 +244,13 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H4" (at -0.95 -0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp de2ec65f-92f1-4db9-a1ef-eab2a42f48e0)
+      (tstamp ff282bae-8621-4f94-a408-d1d4c5575180)
     )
     (fp_text value "MountingHole" (at 0 0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp bbda77af-e8d8-44de-9f52-5f976330f6cb)
+      (tstamp a3cc1a1c-d1ea-4e29-9da0-561bfd327c81)
     )
-    (pad "" np_thru_hole circle locked (at 0 0) (size 2.3 2.3) (drill 2.3) (layers *.Cu *.Mask) (tstamp 2b83db1e-9345-4462-9932-28b6fd4afc7a))
+    (fp_circle (center 0 0) (end 1.15 0) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp b695e60f-372a-4ea9-a61b-afaf6cb36235))
   )
 
   (footprint "kbd:SW_Hole" (layer "F.Cu")
@@ -301,7 +301,7 @@
     (fp_line (start 9.525 9.525) (end 9.525 -9.525) (layer "F.Fab") (width 0.15) (tstamp e6df80de-9fbc-44ef-a0c2-3f19108abe90))
   )
 
-  (footprint "kbd:thread_m2" (layer "F.Cu")
+  (footprint "pica:thread_m2_hole" (layer "F.Cu")
     (tedit 5F8C61BB) (tstamp 6f5a7983-24bb-46cc-94b8-3ae309446902)
     (at 81.25 94.25 5)
     (descr "Mounting Hole 2.2mm, no annular, M2")
@@ -311,13 +311,13 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H3" (at -0.95 -0.55 5) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 91891d0f-0cd7-4c84-8642-264fdbccd5d6)
+      (tstamp 60c603f8-3899-4eb4-9dd8-4a264dbcd382)
     )
     (fp_text value "MountingHole" (at 0 0.55 5) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 96900d39-31ee-4744-96d9-d89319de03f3)
+      (tstamp 571262c0-717d-4954-9476-3c1bc20bcaf9)
     )
-    (pad "" np_thru_hole circle locked (at 0 0 5) (size 2.3 2.3) (drill 2.3) (layers *.Cu *.Mask) (tstamp 6345edc7-7cdf-484e-a7b6-f59ce56519cb))
+    (fp_circle (center 0 0) (end 1.15 0) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 314cf4dc-b058-4401-89af-3629023c8fb9))
   )
 
   (footprint "kbd:SW_Hole" (layer "F.Cu")
@@ -488,7 +488,7 @@
     (fp_line (start -9.525 9.525) (end 9.525 9.525) (layer "F.Fab") (width 0.15) (tstamp 856d5205-ee19-4e3e-8083-783ab8764f6a))
   )
 
-  (footprint "kbd:thread_m2" (layer "F.Cu")
+  (footprint "pica:thread_m2_hole" (layer "F.Cu")
     (tedit 5F8C61BB) (tstamp a34002d1-6c8e-4296-8140-25995978ef68)
     (at 173.5 116.5)
     (descr "Mounting Hole 2.2mm, no annular, M2")
@@ -498,13 +498,13 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H2" (at -0.95 -0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 610c99cd-3ec7-4e49-9957-9a0424db0b73)
+      (tstamp 4c0cec27-3637-4e46-a9ba-48847df59a2c)
     )
     (fp_text value "MountingHole" (at 0 0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 52605c0a-7c7a-474c-9ff4-3865d58adc3e)
+      (tstamp 8d8cf063-428e-4eb0-9d1a-05156c16b24a)
     )
-    (pad "" np_thru_hole circle locked (at 0 0) (size 2.3 2.3) (drill 2.3) (layers *.Cu *.Mask) (tstamp 695248c3-25ed-4d2b-abed-fca19a298fc9))
+    (fp_circle (center 0 0) (end 1.15 0) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 71cb6564-60f5-49b3-8758-3b6980c6c483))
   )
 
   (footprint "kbd:SW_Hole" (layer "F.Cu")

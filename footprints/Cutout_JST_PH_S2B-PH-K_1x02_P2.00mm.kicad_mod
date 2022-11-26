@@ -1,0 +1,27 @@
+(footprint "Cutout_JST_PH_S2B-PH-K_1x02_P2.00mm" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5B7745C6)
+  (descr "JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
+  (tags "connector JST PH top entry")
+  (property "Sheetfile" "pica40.kicad_sch")
+  (property "Sheetname" "")
+  (attr through_hole)
+  (fp_text reference "BATTCONN1" (at 1 -2.55) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 49c8a05f-4a9d-4cee-bae2-6c6253f321da)
+  )
+  (fp_text value "Conn_01x02_Female" (at 1 7.45) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f284fef8-f46b-49f5-a288-907880cb124c)
+  )
+  (fp_text user "${REFERENCE}" (at 1 2.5) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 44b72782-9c44-4b4d-8557-342114d04ada)
+  )
+  (fp_rect (start -1 -1) (end 3 1) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp de33bc82-db39-4d5e-a4dd-49883f8cdcfa))
+  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal.wrl" hide
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
