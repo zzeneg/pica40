@@ -1,4 +1,4 @@
-20834818227302515
+20773925536213808
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -80,6 +80,13 @@ Battery
 BatteryHolder_Keystone_1042_1x18650
 Battery holder for 18650 cylindrical cells http://www.keyelco.com/product.cfm/product_id/918
 18650 Keystone 1042 Li-ion
+0
+2
+2
+Battery
+BatteryHolder_Keystone_1057_1x2032
+SMT (Auto-In/Ultra-Low) Holder for 2032 Cell, 33.2 x 23.9mm, 2mm height above PCB, https://www.keyelco.com/userAssets/file/M65p4.pdf
+Keystone type 1057 coin cell holder
 0
 2
 2
@@ -6538,6 +6545,13 @@ TRS audio jack stereo horizontal circular
 5
 5
 Connector_Audio
+Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal
+3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cuidevices.com/product/resource/sj2-359x-smt.pdf)
+3.5mm audio cui horizontal jack stereo
+0
+5
+5
+Connector_Audio
 Jack_3.5mm_Ledino_KB3SPRS_Horizontal
 https://www.reichelt.de/index.html?ACTION=7&LA=3&OPEN=0&INDEX=0&FILENAME=C160%252FKB3SPRS.pdf
 jack stereo TRS
@@ -7442,7 +7456,7 @@ neutrik xlr aa
 4
 Connector_Audio
 Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal
-A Series, Chassis connector H female (A series layout), horizontal PCB mount, https://www.neutrik.com/en/product/nc4mafh-ph
+A Series, Chassis connector H female (A series layout), mates with Phoenix MSTB2,5/3-ST, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mafh-ph
 neutrik xlr a
 0
 3
@@ -7477,7 +7491,7 @@ neutrik xlr a
 4
 Connector_Audio
 Jack_XLR_Neutrik_NC3MAMH-PH_Horizontal
-A Series, Chassis connector Phoenix H male (A series layout), horizontal PCB mount, https://www.neutrik.com/en/product/nc4mamh-ph
+A Series, Chassis connector Phoenix H male (A series layout), mates with Phoenix MSTB 2,5/3-ST, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mamh-ph
 neutrik xlr a
 0
 3
@@ -7973,6 +7987,13 @@ Power Jack
 3
 3
 Connector_BarrelJack
+BarrelJack_Kycon_KLDX-0202-xC_Horizontal
+DC Barrel Jack 2mm or 2.5mm center pin, https://www.kycon.com/Pub_Eng_Draw/KLDX-0202-AC%20&%20BC.pdf
+power jack 2mm 2.5mm KLDX-0202-BC KLDX-0202-AC
+0
+3
+3
+Connector_BarrelJack
 BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal
 DC Power Jack, 13A, 24V, Panel Mount,Through-hole, https://www.switchcraft.com/Drawings/RAPC10U_CD.pdf
 barreljack switchcraftconxall dc power
@@ -8063,6 +8084,13 @@ Micro SD
 0
 14
 11
+Connector_Card
+microSD_HC_Molex_47219-2001
+1.10mm Pitch microSD Card Connector, Hinge Type, https://www.molex.com/pdm_docs/sd/472192001_sd.pdf
+Micro SD
+0
+12
+9
 Connector_Card
 microSD_HC_Molex_104031-0811
 1.10mm Pitch microSD Memory Card Connector, Surface Mount, Push-Pull Type, 1.42mm Height, with Detect Switch (https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf)
@@ -9884,6 +9912,20 @@ connector JAE  top entry
 81
 81
 Connector_FFC-FPC
+Jushuo_AFC07-S06FCA-00_1x6-1MP_P0.50_Horizontal
+Jushuo AFC07, FFC/FPC connector, AFC07-S06FCA-00, 6 Pins per row (https://datasheet.lcsc.com/lcsc/1811040204_JUSHUO-AFC07-S32FCC-00_C11061.pdf)
+connector jushuo horizontal
+0
+8
+7
+Connector_FFC-FPC
+Jushuo_AFC07-S24FCA-00_1x24-1MP_P0.50_Horizontal
+Jushuo AFC07, FFC/FPC connector, AFC07-S24FCA-00, 24 Pins per row (https://datasheet.lcsc.com/lcsc/1811040204_JUSHUO-AFC07-S32FCC-00_C11061.pdf)
+connector jushuo horizontal
+0
+26
+25
+Connector_FFC-FPC
 Molex_52559-3652_2x18-1MP_P0.5mm_Vertical
 Molex 0.50mm Pitch Easy-On Type FFC/FPC, 52559-3652, 36 Circuits (https://www.molex.com/pdm_docs/sd/525593652_sd.pdf)
 connector Molex top entry
@@ -10198,6 +10240,13 @@ connector Molex  top entry
 0
 53
 52
+Connector_FFC-FPC
+Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal
+Omron FPC connector, 40 top-side contacts, 0.5mm pitch, SMT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-xf2m.pdf
+omron fpc xf2m
+0
+42
+41
 Connector_FFC-FPC
 TE_0-1734839-5_1x05-1MP_P0.5mm_Horizontal
 TE FPC connector, 05 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
@@ -45731,6 +45780,13 @@ usb A plug horizontal
 11
 10
 Connector_USB
+USB3_A_Receptacle_Wuerth_692122030100
+USB 3.0, type A, right angle (https://www.we-online.com/katalog/datasheet/692122030100.pdf)
+USB 3.0 type A right angle Würth
+0
+11
+10
+Connector_USB
 USB3_Micro-B_Connfly_DS1104-01
 Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://en.connfly.com/static/upload/file/pdf/DS1104-01.pdf)
 USB 3.0 Micro B SMD right angle
@@ -48301,8 +48357,8 @@ connector wire 2sqmm double-strain-relief
 6
 Connector_Wire
 SolderWirePad_1x01_SMD_1x2mm
-Wire Pad, Square, SMD Pad,  5mm x 10mm,
-MesurementPoint Square SMDPad 5mmx10mm 
+Wire Pad, Square, SMD Pad,  1mm x 2mm,
+MesurementPoint Square SMDPad 1mmx2mm 
 0
 1
 1
@@ -48453,6 +48509,13 @@ switching power supply
 0
 4
 4
+Converter_ACDC
+Converter_ACDC_Murata_BAC05SxxDC_THT
+ACDC-Converter, Murata, 5W, ClassB, https://www.murata.com/products/productdata/8809982558238/KAC-BAC05.pdf
+switching power supply tht
+0
+5
+5
 Converter_ACDC
 Converter_ACDC_RECOM_RAC01-xxSGB_THT
 https://www.recom-power.com/pdf/Powerline-AC-DC/RAC01-GB.pdf
@@ -48768,6 +48831,20 @@ dc-dc recom buck lga-25 pitch 2.29mm
 0
 25
 25
+Converter_DCDC
+Converter_DCDC_Silvertel_Ag54xx
+DCDC-Converter, 30W POE, Silvertel, pitch 2.54mm, package size 62x19.5x14mm, https://silvertel.com/images/datasheets/Ag5400-datasheet-high%20Efficiency-30W-Power-Over-Ethernet-Plus-Module-PoE+PD.pdf
+DCDC-Converter Silvertel Ag5405 Ag5412 Ag5424 single output POE
+0
+10
+10
+Converter_DCDC
+Converter_DCDC_Silvertel_Ag5810
+DCDC-Converter, 60W POE, Silvertel, pitch 2.54mm, package size 69.98x30x15.64mm, https://silvertel.com/images/datasheets/Ag5810-datasheet-IEEE802_3bt-Power-over-Ethernet-4-pair-PD.pdf
+DCDC-Converter Silvertel Ag5810 single output POE
+0
+163
+13
 Converter_DCDC
 Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD
 Traco TDN 5WISM Series, 5W, SMD (https://assets.tracopower.com/20200225170127/TDN5WISM/documents/tdn5wism-datasheet.pdf#page=3)
@@ -49573,6 +49650,13 @@ SMD SMT crystal
 0
 2
 2
+Crystal
+Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm
+Abracon Miniature Ceramic Smd Crystal ABM8AIG https://abracon.com/AIGcrystals/ABM8AIG.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
 Crystal
 Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm
 Abracon Miniature Ceramic Smd Crystal ABM8G http://www.abracon.com/Resonators/ABM8G.pdf, 3.2x2.5mm^2 package
@@ -50424,6 +50508,13 @@ Diode_SMD
 D_MicroMELF_Handsoldering
 Diode, MicroMELF, Hand Soldering, http://www.vishay.com/docs/85597/bzm55.pdf
 MicroMELF Diode
+0
+2
+2
+Diode_SMD
+D_MicroSMP
+Diode MicroSMP (DO-219AD), https://www.vishay.com/docs/89020/mss1p3l.pdf
+Diode MicroSMP (DO-219AD)
 0
 2
 2
@@ -51394,6 +51485,13 @@ diode module
 5
 5
 Diode_THT
+Diode_Bridge_DIGITRON_KBPC_T
+Single phase, Bridge rectifier, 28.614x28.614mm, case KBPC_T(FP), https://www.digitroncorp.com/Digitron/media/Files/Datasheets/KBPC15005-SERIES.pdf
+diode module
+0
+4
+4
+Diode_THT
 Diode_Bridge_DIP-4_W5.08mm_P2.54mm
 4-lead dip package for diode bridges, row spacing 5.08mm, pin-spacing 2.54mm, see http://www.vishay.com/docs/88898/b2m.pdf
 DIL DIP PDIP 5.08mm 2.54
@@ -51404,6 +51502,20 @@ Diode_THT
 Diode_Bridge_DIP-4_W7.62mm_P5.08mm
 4-lead dip package for diode bridges, row spacing 7.62 mm (300 mils), see http://cdn-reichelt.de/documents/datenblatt/A400/HDBL101G_20SERIES-TSC.pdf
 DIL DIP PDIP 5.08mm 7.62mm 300mil
+0
+4
+4
+Diode_THT
+Diode_Bridge_GeneSiC_KBPC_T
+Single phase, Bridge rectifier, 28.55x28.55mm, case KBPC_T(FP), https://www.diodemodule.com/bridge-rectifier/kbpc/kbpc1501t.pdf
+diode module
+0
+4
+4
+Diode_THT
+Diode_Bridge_GeneSiC_KBPC_W
+Single phase, Bridge Rectifier, 28.55x28.55mm, case KBPC_W(WP), https://www.diodemodule.com/bridge-rectifier/kbpc/kbpc15005w.pdf
+diode module
 0
 4
 4
@@ -52738,6 +52850,13 @@ bourns ptc resettable fuse polyfuse MF-SM MF-SMHT
 2
 2
 Fuse
+Fuse_Bourns_TBU-CA
+Bourns TBU-CA Fuse, 2 Pin (https://www.bourns.com/data/global/pdfs/TBU-CA.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Bourns Fuse NoLead
+0
+3
+3
+Fuse
 Fuse_Littelfuse-LVR100
 Littelfuse, resettable fuse, PTC, polyswitch LVR100, Ih 1A http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_lvr_catalog_datasheet.pdf.pdf
 LVR100 PTC resettable polyswitch 
@@ -52811,6 +52930,139 @@ Fuse
 Fuseholder_Blade_Mini_Keystone_3568
 fuse holder, car blade fuse mini, http://www.keyelco.com/product-pdf.cfm?p=306
 car blade fuse mini
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Lateral, Horizontal, Bel FC-203-22, https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0672-fuse-clips-series.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Eaton_1A5601-01_Inline_P20.80x6.76mm_D1.70mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Eaton 1A5601-01, https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-1axxxx-pcb-fuse-clips-atc-atm-blade-data-sheet.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Keystone_3512P_Inline_P23.62x7.27mm_D1.02x2.41x1.02x1.57mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Keystone 3512P, http://www.keyelco.com/product-pdf.cfm?p=1386
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Keystone_3512_Inline_P23.62x7.27mm_D1.02x1.57mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Keystone 3512, http://www.keyelco.com/product-pdf.cfm?p=356
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Keystone_3517_Inline_P23.11x6.76mm_D1.70mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Keystone 3517, http://www.keyelco.com/product-pdf.cfm?p=354
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Keystone_3518P_Inline_P23.11x6.76mm_D2.44x1.70mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Keystone 3518P, http://www.keyelco.com/product-pdf.cfm?p=1387
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 100, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_111_Inline_P20.00x5.00mm_D1.05mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 111, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_111_519_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_111_Lateral_P18.80x5.00mm_D1.17mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 111 (501 and 506), https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_111_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_445-030_Inline_P20.50x5.20mm_D1.30mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 445/030, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_519_Inline_P20.60x5.00mm_D1.00mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 519, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_111_519_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_520_Inline_P20.50x5.80mm_D1.30mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 520, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_521_Lateral_P17.00x5.00mm_D1.30mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 521, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_520_521_102071_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Schurter_CQM_Inline_P20.60x5.00mm_D1.00mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Schurter CQM (0752), https://www.schurter.com/en/datasheet/typ_CQM.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Schurter_OG_Lateral_P15.00x5.00mm_D1.3mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Schurter OG, https://ch.schurter.com/en/datasheet/typ_OG__Clip__5x20.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-6.3x32mm_Littelfuse_102_122_Inline_P34.21x7.62mm_D1.98mm_Horizontal
+Fuseholder Clips, 6.3x32mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 102/122 Straight Leads, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_102_122_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-6.3x32mm_Littelfuse_102_Inline_P34.21x7.62mm_D2.54mm_Horizontal
+Fuseholder Clips, 6.3x32mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 102 Bowed Leads, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_102_122_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-6.3x32mm_Littelfuse_122_Inline_P34.21x7.62mm_D2.54mm_Horizontal
+Fuseholder Clips, 6.3x32mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 122 Bowed Leads, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_102_122_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal
+Fuseholder Clips, 6.3x32mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 102071, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_520_521_102071_datasheet.pdf.pdf
+fuse clip open
 0
 4
 2
@@ -53347,6 +53599,13 @@ inductor abracon smd shielded
 2
 2
 Inductor_SMD
+L_Abracon_ASPI-4030S
+smd shielded power inductor 4x4x3mm, Abracon ASPI-4030S, https://abracon.com/Magnetics/power/ASPI-4030S.pdf
+inductor abracon smd shielded
+0
+2
+2
+Inductor_SMD
 L_Bourns-SRN1060
 Bourns SRN1060 series SMD inductor https://www.bourns.com/docs/Product-Datasheets/SRN1060.pdf
 Bourns SRN1060 SMD inductor
@@ -53483,6 +53742,20 @@ Inductor_SMD
 L_Bourns_SRR1260
 Bourns SRR1260 series SMD inductor http://www.bourns.com/docs/Product-Datasheets/SRR1260.pdf
 Bourns SRR1260 SMD inductor
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_LPS3010
+Shielded Power Inductor SMD 3x3x1mm, Coilcraft LPS3010, https://www.coilcraft.com/pdfs/lps3010.pdf
+inductor low profile
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_LPS3314
+SMD Inductor, 3.3x3.3x1.4mm, Coilcraft LPS3314, https://www.coilcraft.com/pdfs/lps3314.pdf
+L Coilcraft LPS3314
 0
 2
 2
@@ -53872,6 +54145,13 @@ Neosid Inductor SMs95 Fixed inductor SMD magnetically shielded
 2
 2
 Inductor_SMD
+L_Pulse_P059x
+1:1, Power Inductor, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/p0599nl
+inductor coil choke
+0
+4
+4
+Inductor_SMD
 L_Pulse_PA4320
 Inductor SMD Pulse PA4320 http://productfinder.pulseeng.com/products/datasheets/P787.pdf
 Inductor SMD Pulse PA4320
@@ -54060,6 +54340,13 @@ inductor TDK VLP smd VLP8040
 0
 2
 2
+Inductor_SMD
+L_Taiyo-Yuden_BK_Array_1206_3216Metric
+Ferrite Bead Array 4x0603, Taiyo Yuden BK Series (see https://www.yuden.co.jp/productdata/catalog/mlci09_e.pdf)
+ferrite bead array
+0
+8
+8
 Inductor_SMD
 L_Taiyo-Yuden_MD-1616
 Inductor, Taiyo Yuden, MD series, Taiyo-Yuden_MD-1616, 1.6mmx1.6mm
@@ -55341,6 +55628,48 @@ Inductor Axial series Axial Horizontal pin pitch 35.56mm  length 30mm diameter 8
 0
 2
 2
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455x105NL_1
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455x155NL_1
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455x205NL_1
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455x405NL_1
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455x705NL_1
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455xxx6NL_2
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
 Inductor_THT
 L_CommonMode_Toroid_Vertical_L19.3mm_W10.8mm_Px6.35mm_Py15.24mm_Bourns_8100
 L_CommonMode_Toroid, Vertical series, Radial, pin pitch=6.35*15.24mm^2, , length*width=19.304*10.795mm^2, Bourns, 8100, http://datasheet.octopart.com/8120-RC-Bourns-datasheet-10228452.pdf
@@ -56889,6 +57218,13 @@ dual led smd
 4
 4
 LED_SMD
+LED_Kingbright_APDA3020VBCD
+LED, SMD, APDA3020VBC/D, https://www.kingbrightusa.com/images/catalog/SPEC/APDA3020VBC-D.pdf
+LED APDA3020VBC/D Kingbright 
+0
+2
+2
+LED_SMD
 LED_Kingbright_APFA3010_3x1.5mm_Horizontal
 LED RGB, APFA3010, http://www.kingbrightusa.com/images/catalog/SPEC/APFA3010LSEEZGKQBKC.pdf
 LED RGB APFA3010 KINGBRIGHT 3x1.5mm
@@ -57053,6 +57389,13 @@ LED_SMD
 LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
 https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf
 LED RGB NeoPixel
+0
+4
+4
+LED_SMD
+LED_WS2812B-2020_PLCC4_2.0x2.0mm
+Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
+LED RGB NeoPixel Nano 2020
 0
 4
 4
@@ -60403,6 +60746,13 @@ refective opto couple photo coupler
 4
 4
 OptoDevice
+Everlight_ITR9608-F
+Fork-type photointerrupter (https://everlighteurope.com/index.php?controller=attachment&id_attachment=5389)
+Photointerrupter infrared LED
+0
+4
+4
+OptoDevice
 Finder_34.81
 Relay SPST, Finder Type 34.81 (opto relays/coupler), vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf
 Relay SPST Finder
@@ -60522,6 +60872,13 @@ Laser Diode TO56
 3
 3
 OptoDevice
+Lightpipe_Bivar_RLP1-400-650
+1-way, 2.8mm lightpipe, 10mm lens output height, 17mm protrusion, https://www.bivar.com/parts_content/Datasheets/RLP1-XXX-XXX.pdf
+planar light pipe 1 way 3mm 
+0
+0
+0
+OptoDevice
 Lightpipe_Dialight_515-1064F
 https://www.dialightsignalsandcomponents.com/515-optopipe-light-pipe-trilevel-2-5mm-rnd-flat-diff-lens-press-fit/#tab-resources
 lightpipe triple tower right angle 3mm
@@ -60606,6 +60963,20 @@ refective opto couple photo coupler
 4
 4
 OptoDevice
+Osram_BP104-SMD
+PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.2x2.2mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5989350/BP%20104%20FAS_EN.pdf
+PhotoDiode plastic SMD DIL
+0
+6
+2
+OptoDevice
+Osram_BPW34S-SMD
+PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.65x2.65mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5488319/BPW%2034%20S_EN.pdf
+PhotoDiode plastic SMD DIL
+0
+6
+2
+OptoDevice
 Osram_BPW82
 PhotoDiode, BPW82, RM2.54
 PhotoDiode BPW82 RM2.54
@@ -60646,6 +61017,20 @@ PhotoDiode, SFH225, RM2.54
 PhotoDiode SFH225 RM2.54
 0
 2
+2
+OptoDevice
+Osram_SFH2430
+PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.65x2.65mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5467144/SFH%202430_EN.pdf
+PhotoDiode plastic SMD DIL
+0
+6
+2
+OptoDevice
+Osram_SFH2440
+PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.65x2.65mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5467146/SFH%202440_EN.pdf
+PhotoDiode plastic SMD DIL
+0
+6
 2
 OptoDevice
 Osram_SMD-DIL2_4.5x4.0mm
@@ -62299,6 +62684,13 @@ LFCSP 8 0.5
 0
 12
 5
+Package_CSP
+LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm
+LFCSP, 6 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_6_3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+11
+7
 Package_CSP
 LFCSP-8-1EP_3x2mm_P0.5mm_EP1.6x1.65mm
 LFCSP 8pin Pitch 0.5mm, http://www.analog.com/media/en/package-pcb-resources/package/57080735642908cp_8_4.pdf
@@ -71331,8 +71723,8 @@ TSOP-I SO
 32
 Package_SO
 TSOP-I-32_18.4x8mm_P0.5mm
-TSOP I, 32 pins, 18.4x8mm body (https://www.micron.com/~/media/documents/products/technical-note/nor-flash/tn1225_land_pad_design.pdf, http://www.fujitsu.com/downloads/MICRO/fma/pdfmcu/f32pm25.pdf)
-TSOP I 32
+TSOP-I, 32 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation BD), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
 0
 32
 32
@@ -71394,8 +71786,8 @@ TSOP-I SO
 48
 Package_SO
 TSOP-I-48_18.4x12mm_P0.5mm
-TSOP I, 32 pins, 18.4x8mm body (https://www.micron.com/~/media/documents/products/technical-note/nor-flash/tn1225_land_pad_design.pdf)
-TSOP I 32
+TSOP-I, 48 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation DD), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
 0
 48
 48
@@ -71415,8 +71807,8 @@ TSOP-I SO
 56
 Package_SO
 TSOP-I-56_18.4x14mm_P0.5mm
-TSOP I, 32 pins, 18.4x8mm body (https://www.micron.com/~/media/documents/products/technical-note/nor-flash/tn1225_land_pad_design.pdf)
-TSOP I 32
+TSOP-I, 56 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation EC), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
 0
 56
 56
@@ -72638,6 +73030,13 @@ Infineon PG-TO-220-7
 0
 12
 8
+Package_TO_SOT_SMD
+Infineon_PG-TSFP-3-1
+Infineon_PG-TSFP-3-1, https://www.infineon.com/dgdl/TSFP-3-1,-2-Package_Overview.pdf?fileId=db3a30431936bc4b0119539929863d46
+TSFP-3
+0
+3
+3
 Package_TO_SOT_SMD
 LFPAK33
 LFPAK33 SOT-1210 https://assets.nexperia.com/documents/outline-drawing/SOT1210.pdf
@@ -76605,7 +77004,7 @@ ESP32-WROOM-32
 Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
 Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
 0
-39
+60
 39
 RF_Module
 ESP32-WROOM-32U
@@ -84651,6 +85050,13 @@ Transformer Ethernet Single Center-Tap
 16
 16
 Transformer_SMD
+Transformer_Ethernet_Bourns_PT61020EL
+10/100/1000 Base-T Transformer Module, PT61020EL (https://www.bourns.com/pdfs/PT61020.pdf)
+Gigabit PoE Ethernet Transformer Single
+0
+24
+24
+Transformer_SMD
 Transformer_Ethernet_HALO_TG111-MSC13
 Transformer Ethernet SMD, https://www.haloelectronics.com/pdf/discrete-genesus.pdf
 Transformer Ethernet SMD
@@ -85182,6 +85588,13 @@ transformer flyback
 0
 10
 10
+Transformer_THT
+Transformer_Wuerth_760871131
+Transformer, horizontal core with bobbin, 14 pin, 2.49 mm pitch, 20 mm row spacing, 25x22.2x16mm https://www.we-online.com/catalog/datasheet/760871131.pdf
+transformer flyback
+0
+14
+14
 Transistor_Power_Module
 Infineon_AG-ECONO2
 28-lead TH, EconoPACK 2, same as Littelfuse_Package_H_XN2MM, https://www.infineon.com/dgdl/Infineon-FS75R07N2E4-DS-v02_00-en_de.pdf?fileId=db3a30432f5008fe012f52f916333979
@@ -86022,6 +86435,13 @@ varistor SIOV
 0
 2
 2
+Varistor
+RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm
+Varistor, V25S440P, https://www.littelfuse.com/media?resourcetype=datasheets&itemid=b410c42c-51d1-460e-b1d9-d105d93c9679&filename=littelfuse-varistor-ultramov25s-datasheet
+varistor
+0
+2
+2
 kbd
 1pin_conn
 Resitance 3 pas
@@ -86547,1119 +86967,6 @@ waffle
 0
 0
 0
-keebio
-3_Pin_Jumper
-
-
-0
-9
-3
-keebio
-4pin35mmAudio
-
-
-0
-6
-6
-keebio
-AST1109MLTRQ
-Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
-Murata Buzzer Beeper
-0
-2
-2
-keebio
-AT90USB1286_TQFP_14mm
-64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-64
-64
-keebio
-ATMEGA32U4-AU
-
-
-0
-44
-44
-keebio
-ArduinoProMicro
-
-
-0
-24
-24
-keebio
-ArduinoProMicro-BackSide
-
-
-0
-24
-24
-keebio
-ArduinoProMicro-Mini-USB
-
-
-0
-24
-24
-keebio
-ArduinoProMicro-Mini-USB-No-Text
-
-
-0
-24
-24
-keebio
-ArduinoProMicro-Mini-USB-ZigZag
-
-
-0
-24
-24
-keebio
-ArduinoProMicro-TopSide
-
-
-0
-24
-24
-keebio
-ArduinoProMicro-ZigZag
-
-
-0
-24
-24
-keebio
-CUI_SJ-43614-SMT
-
-
-0
-4
-4
-keebio
-C_0402
-Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
-capacitor 0402
-0
-2
-2
-keebio
-C_0603
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keebio
-Cherry-MX-Low-Profile
-
-
-0
-2
-2
-keebio
-Crystal_SMD_2520-4pin_2.5x2.0mm
-SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
-SMD SMT crystal
-0
-4
-4
-keebio
-Crystal_SMD_3225-4pin_3.2x2.5mm
-SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
-SMD SMT crystal
-0
-4
-4
-keebio
-D_0805
-
-
-0
-2
-2
-keebio
-D_SOD-323
-SOD-323
-SOD-323
-0
-2
-2
-keebio
-D_SOD123
-
-
-0
-2
-2
-keebio
-D_SOD123F
-
-
-0
-2
-2
-keebio
-Diode
-
-
-0
-2
-2
-keebio
-Diode-Hybrid-Back
-
-
-0
-6
-2
-keebio
-Diode-dual
-
-
-0
-10
-2
-keebio
-Diode-hybrid-3pad
-
-
-0
-6
-2
-keebio
-Diode_Long
-
-
-0
-2
-2
-keebio
-Elite-C
-
-
-0
-29
-29
-keebio
-Elite-C-ZigZag
-
-
-0
-29
-29
-keebio
-Elite-C-castellated-24pin
-
-
-0
-24
-24
-keebio
-Elite-C-castellated-24pin-holes
-
-
-0
-48
-24
-keebio
-Elite-C-castellated-29pin
-
-
-0
-29
-29
-keebio
-Elite-C-castellated-29pin-holes
-
-
-0
-58
-29
-keebio
-Epson_TSX-3225
-
-
-0
-4
-4
-keebio
-Fuse_0805
-SMT, 2012, 0805
-SMT, 2012, 0805
-0
-2
-2
-keebio
-HRO-TYPE-C-31-M-12-Assembly
-
-
-0
-16
-13
-keebio
-Header-6-Pin-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-keebio
-Header-12-Pin-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-12
-12
-keebio
-Header-12-Pin-ZigZag-Square
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-12
-12
-keebio
-I2C_Breakout
-Through hole straight pin header, 1x04, 2.54mm pitch, single row
-Through hole pin header THT 1x04 2.54mm single row
-0
-4
-4
-keebio
-ICSP-Header
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-keebio
-ICSP-Header-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-keebio
-ICSP_1.27mm
-Through hole straight pin header, 2x03, 1.27mm pitch, double rows
-Through hole pin header THT 2x03 1.27mm double row
-0
-6
-6
-keebio
-JUMPER_SMD_2DUB
-
-
-0
-12
-2
-keebio
-KLJ-1102
-
-
-0
-2
-2
-keebio
-Kailh-PG1350-1.5u
-
-
-0
-4
-4
-keebio
-Kailh-PG1350-1.25u
-
-
-0
-4
-4
-keebio
-Kailh-PG1350-1.25u-LED-flip
-
-
-0
-4
-4
-keebio
-Kailh-PG1350-1u
-
-
-0
-4
-4
-keebio
-Kailh-PG1350-1u-No-Clickhole
-
-
-0
-4
-4
-keebio
-Kailh-PG1350-1u-NoLED
-
-
-0
-2
-2
-keebio
-Kailh-PG1350-1u-reversible
-
-
-0
-5
-4
-keebio
-Kailh-PG1350-1u-reversible-No-Clickhole
-
-
-0
-5
-4
-keebio
-Kailh-PG1350-1u-reversible-flip
-
-
-0
-5
-4
-keebio
-Kailh-PG1350-2.5u
-
-
-0
-4
-4
-keebio
-Kailh-PG1350-2u
-
-
-0
-4
-4
-keebio
-Kailh-PG1350-2u-NoLED
-
-
-0
-2
-2
-keebio
-Kailh-PG1350-2u-Vert-NoLED
-
-
-0
-2
-2
-keebio
-LED_3mm
-
-
-0
-2
-2
-keebio
-LQFP-48_7x7mm_Pitch0.5mm
-48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
-QFP 0.5
-0
-48
-48
-keebio
-Low-Profile-Choc-MX
-
-
-0
-5
-4
-keebio
-MD_Diode
-
-
-0
-2
-2
-keebio
-MX-Alps-Choc-1U
-
-
-0
-8
-4
-keebio
-MX-Alps-Choc-1U-No-Clickhole
-
-
-0
-8
-4
-keebio
-MX-Alps-Choc-1U-NoLED
-
-
-0
-6
-2
-keebio
-MX-Alps-Choc-1U-NoLED-Alt
-
-
-0
-6
-2
-keebio
-MX-Alps-Choc-2U
-
-
-0
-8
-4
-keebio
-MX-Alps-Choc-2U-StabFlip
-
-
-0
-8
-4
-keebio
-MX-Alps_DMask
-
-
-0
-2
-1
-keebio
-MX-Alps_FMask
-
-
-0
-2
-1
-keebio
-MX-Alps_FMask-2u
-
-
-0
-2
-1
-keebio
-MX-Alps_Switch_Cutout
-
-
-0
-2
-1
-keebio
-MX-Alps_Switch_Cutout-1u_1.25u
-
-
-0
-0
-0
-keebio
-MX-Alps_Switch_Cutout-1u_1.25u-3u-wide
-
-
-0
-0
-0
-keebio
-MX-Alps_Switch_Cutout-1u_2u
-
-
-0
-2
-1
-keebio
-MX-Alps_Switch_Cutout-3u-wide
-
-
-0
-0
-0
-keebio
-MX-Quad
-MX/Alps footprint
-
-0
-8
-2
-keebio
-MX_FMask
-
-
-0
-2
-1
-keebio
-MX_FMask-2u
-
-
-0
-3
-1
-keebio
-MX_FMask-2u-with-cutout
-
-
-0
-2
-1
-keebio
-MX_FMask-with-cutout
-
-
-0
-2
-1
-keebio
-MX_LED
-
-
-0
-2
-2
-keebio
-MX_Stabilizer_Cutout
-
-
-0
-0
-0
-keebio
-MX_Stabilizer_Cutout-2u
-
-
-0
-0
-0
-keebio
-MX_Switch_Cutout
-
-
-0
-0
-0
-keebio
-MX_Switch_Mod_Cutout
-
-
-0
-0
-0
-keebio
-Mini-USB
-
-
-0
-7
-6
-keebio
-MountingHole
-
-
-0
-1
-0
-keebio
-NovelKeys_Kailh_Big_Series_Switch
-
-
-0
-2
-2
-keebio
-Pin_Header_Straight_2x03_Pitch1.00mm
-Through hole straight pin header, 2x03, 1.00mm pitch, double rows
-Through hole pin header THT 2x03 1.00mm double row
-0
-6
-6
-keebio
-QFN-44-1EP_7x7mm_Pitch0.5mm
-UK Package; 44-Lead Plastic QFN (7mm x 7mm); (see Linear Technology QFN_44_05-08-1763.pdf)
-QFN 0.5
-0
-60
-45
-keebio
-RGB-6028
-
-
-0
-4
-4
-keebio
-RGB_3528_Blue_Notch
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-keebio
-RGB_3528_Blue_Notch-MX
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-keebio
-RGB_3528_Blue_Notch-MX-Flip
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-keebio
-RP2040-QFN-56
-QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-QFN DFN_QFN
-0
-70
-57
-keebio
-R_0402
-Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
-resistor 0402
-0
-2
-2
-keebio
-R_0603
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keebio
-R_0805
-SMT, 2012, 0805
-SMT, 2012, 0805
-0
-2
-2
-keebio
-Resistor
-
-
-0
-2
-2
-keebio
-Resistor-Compact
-
-
-0
-2
-2
-keebio
-Resistor-Compact-1-side
-
-
-0
-2
-2
-keebio
-Resistor-Hybrid
-
-
-0
-10
-2
-keebio
-Resistor-Hybrid-Back
-
-
-0
-6
-2
-keebio
-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
-keebio
-RotaryEncoder_EC11
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-keebio
-RotaryEncoder_EC11-no-legs
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-keebio
-RotaryEncoder_EC11B-Horizontal-Dual
-
-
-0
-7
-5
-keebio
-RotaryEncoder_EC11_Nonplated
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-keebio
-SK6812-MINI-E
-
-
-0
-4
-4
-keebio
-SM0805D
-
-
-0
-2
-2
-keebio
-SOIC-8_3.9x4.9mm_Pitch1.27mm
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-8
-8
-keebio
-SOIC-8_5.23x5.23mm_P1.27mm
-SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOIC SO
-0
-8
-8
-keebio
-SOT-23
-SOT-23, Standard
-SOT-23
-0
-3
-3
-keebio
-SOT-23-6
-6-pin SOT-23 package
-SOT-23-6
-0
-6
-6
-keebio
-SOT-23_Handsoldering
-SOT-23, Handsoldering
-SOT-23
-0
-3
-3
-keebio
-SOT-143B
-SOT143B
-
-0
-4
-4
-keebio
-SOT-363_SC-70-6
-SOT-363, SC-70-6
-SOT-363 SC-70-6
-0
-6
-6
-keebio
-SW_SPST_3x3
-Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
-SPST Tactile Switch
-0
-4
-2
-keebio
-SW_SPST_TL3342
-Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
-SPST Tactile Switch
-0
-4
-2
-keebio
-SW_Tactile_SPST_Angled_MJTP1117
-tactile switch SPST right angle, PTS645VL39-2 LFS
-tactile switch SPST angled PTS645VL39-2 LFS C&K Button
-0
-4
-2
-keebio
-SW_Tactile_SPST_Angled_MJTP1117-no-mount
-tactile switch SPST right angle, PTS645VL39-2 LFS
-tactile switch SPST angled PTS645VL39-2 LFS C&K Button
-0
-2
-2
-keebio
-SinglePad
-
-
-0
-1
-1
-keebio
-SolderJumper
-
-
-0
-4
-3
-keebio
-SolderJumperLeft
-
-
-0
-3
-3
-keebio
-SolderJumperPair
-
-
-0
-6
-3
-keebio
-SolderJumperRight
-
-
-0
-3
-3
-keebio
-SolderJumperSet
-
-
-0
-12
-6
-keebio
-SolderJumperSets
-
-
-0
-6
-2
-keebio
-SolidCopper
-Mounting Hole 2.2mm, M2
-mounting hole 2.2mm m2
-0
-2
-1
-keebio
-TQFP-32_7x7mm_Pitch0.8mm
-32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-32
-32
-keebio
-TQFP-44_10x10mm_Pitch0.8mm
-44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-44
-44
-keebio
-TQFP-48_7x7mm_Pitch0.5mm
-48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
-QFP 0.5
-0
-48
-48
-keebio
-TQFP-QFN-44_Combined
-44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-104
-45
-keebio
-TRRS-PJ-320A
-
-
-0
-4
-4
-keebio
-TRRS-PJ-320A-dual
-
-
-0
-5
-4
-keebio
-TRRS-PJ-320A-no-Fmask
-
-
-0
-8
-4
-keebio
-TRRS-PJ-320D
-
-
-0
-4
-4
-keebio
-TRRS-PJ-605
-
-
-0
-6
-6
-keebio
-TRRS-PJ-606
-
-
-0
-6
-6
-keebio
-TRRS_Jack
-
-
-0
-6
-6
-keebio
-TRRS_Jack-one-sided
-
-
-0
-4
-4
-keebio
-TRRS_Jumper
-
-
-0
-6
-6
-keebio
-Teensy_2.0
-
-
-0
-31
-31
-keebio
-Triple-Dual-1u-LED
-
-
-0
-21
-4
-keebio
-Triple-Dual-1u-LED-flip
-
-
-0
-21
-4
-keebio
-Triple-Dual-2u-LED
-
-
-0
-21
-4
-keebio
-Triple-Dual-2u-LED-stab-flip
-
-
-0
-21
-4
-keebio
-USB-C-12-Pin-MidMount
-
-
-0
-16
-13
-keebio
-USB-Mini-B_ LCSC-C46398
-
-
-0
-9
-6
-keebio
-USB-Mini-B_2leg
-
-
-0
-7
-6
-keebio
-USB_miniB_HandSolder
-http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
-USB miniB hirose
-0
-9
-9
-keebio
-VIA-0.6mm
-
-
-0
-1
-1
-keebio
-WS2812B
-
-
-0
-4
-4
-keebio
-WS2812B-4020
-
-
-0
-4
-4
-keebio
-breakaway-hole
-
-
-0
-0
-0
-keebio
-breakaway-hole-big
-
-
-0
-0
-0
-keebio
-breakaway-mousebites
-
-
-0
-0
-0
-keebio
-solder_jumper
-
-
-0
-2
-2
 kleeb-mcu
 holyiot-18010
 
