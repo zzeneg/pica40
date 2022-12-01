@@ -75,3 +75,22 @@ Pica40 family - ChocV2 with low profile keycaps, ChocV2 with MT3 keycaps, Pica40
 - _[Optional]_ sockets and pins for socketing MCUs
 
 ## Build log
+
+**TODO**
+
+## Changelog
+
+### V2.1 -⚠️ untested, located in a [separate branch](https://github.com/zzeneg/pica40/tree/v2.1)
+
+- added TRRS support
+- wired version supports rotary encoder on any side
+
+### V2
+
+- reworked to true split with two XIAO MCUs controllers
+- added splay to pinky columns
+- all case/pcb files are not compatible with V1
+
+### V1
+
+- split with single Pro Micro based MCU and handwired connection
