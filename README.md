@@ -67,4 +67,4 @@ I was not able to solder a custom USB-C cable as I wanted initially so I had to 
 
 ## Firmware
 
-[QMK with Vial support](firmware/pica40_vial.hex)
+[QMK with Vial support](firmware/pica40_rev1_vial-zzeneg.hex) - my default keymap with home row mods
