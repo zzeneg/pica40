@@ -19,18 +19,6 @@ _Pica pica - european (common) magpie_
 
 <img src='images\led.jpg' width="600">
 
-## Renders
-
-Left (MCU) side
-
-<img src='images\render-pcb-left-front.png' width="600">
-<img src='images\render-pcb-left-back.png' width="600">
-
-Right side
-
-<img src='images\render-pcb-right-front.png' width="600">
-<img src='images\render-pcb-right-back.png' width="600">
-
 ## Bill of materials
 
 Gerbers - to be printed by manufacturer (all files have jlcpcb marks, remove if using something else):
@@ -67,4 +55,11 @@ I was not able to solder a custom USB-C cable as I wanted initially so I had to 
 
 ## Firmware
 
-[QMK with Vial support](firmware/pica40_rev1_vial-zzeneg.hex) - my default keymap with home row mods
+[Documentation](https://docs.qmk.fm/#/newbs_flashing?id=flashing-your-keyboard-with-qmk-toolbox)
+
+To enter to bootloader mode double press the reset button.
+
+- Default corne-like layout: [QMK](firmware/pica40_rev1_default.hex), [QMK with Vial](firmware/pica40_rev1_vial.hex)
+- My own keymap with home row mods: [QMK](firmware/pica40_rev1_zzeneg.hex.hex), [QMK with Vial](firmware/pica40_rev1_vial-zzeneg.hex)
+
+Generally [Vial](https://get.vial.today) is recommended but it takes a lot of MCU memory so some features are disabled, please check [source code](https://github.com/zzeneg/vial-qmk/tree/feature/pica40/keyboards/pica40).
