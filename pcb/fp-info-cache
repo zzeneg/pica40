@@ -1,4 +1,4 @@
-20773925536213808
+20777345452126111
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87129,6 +87129,13 @@ MJ-4PP-9_1side
 4
 4
 pica
+MountingHole_4.5mm
+Mounting Hole 4.5mm, no annular
+mounting hole 4.5mm no annular
+0
+0
+0
+pica
 RotaryEncoder_EC11
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
@@ -87158,6 +87165,13 @@ seeed-logo
 0
 pica
 spacer_m2_3.4
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+pica
+thread_m2_hole
 Mounting Hole 2.2mm, no annular, M2
 mounting hole 2.2mm no annular m2
 0
