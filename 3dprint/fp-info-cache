@@ -1,0 +1,197 @@
+46735203020121
+pica
+CherryMX_Hotswap
+
+
+0
+2
+2
+pica
+CherryMX_Hotswap_1.5
+
+
+0
+2
+2
+pica
+CherryMX_Hotswap_1.5_reversed
+
+
+0
+4
+2
+pica
+CherryMX_Hotswap_ChocV2
+
+
+0
+5
+2
+pica
+CherryMX_Hotswap_ChocV2_1.5
+
+
+0
+5
+2
+pica
+CherryMX_Hotswap_reversed
+
+
+0
+4
+2
+pica
+Cutout_CherryMX_Hotswap
+
+
+0
+0
+0
+pica
+Cutout_D3_SMD
+Resitance 3 pas
+R
+0
+0
+0
+pica
+Cutout_JST_PH_S2B-PH-K_1x02_P2.00mm
+JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+0
+0
+pica
+Cutout_RotaryEncoder_EC11
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+pica
+Cutout_SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+0
+0
+pica
+D3_SMD
+Resitance 3 pas
+R
+0
+2
+2
+pica
+D3_SMD_reversed
+Resitance 3 pas
+R
+0
+4
+2
+pica
+EC11_Hole
+
+
+0
+0
+0
+pica
+EC11_Hole_Breakaway
+
+
+0
+0
+0
+pica
+HRO-TYPE-C-31-M-12-data
+
+
+0
+12
+9
+pica
+JST_PH_S2B-PH-K_1x02_P2.00mm
+JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+2
+2
+pica
+MountingHole_4.5mm
+Mounting Hole 4.5mm, no annular
+mounting hole 4.5mm no annular
+0
+0
+0
+pica
+ProMicro
+
+
+0
+24
+24
+pica
+RotaryEncoder_EC11
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+pica
+RotaryEncoder_EC11-no-legs
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+pica
+SK6812-MINI-E
+
+
+0
+4
+4
+pica
+logo
+
+
+0
+0
+0
+pica
+logo_mirror
+
+
+0
+0
+0
+pica
+seeed-logo
+
+
+0
+0
+0
+pica
+spacer_m2_3.4
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+pica
+thread_m2_hole
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+pica
+xiao-ble-tht
+
+
+0
+22
+22
