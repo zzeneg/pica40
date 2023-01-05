@@ -60,6 +60,8 @@ Pica40 family - ChocV2 with low profile keycaps, ChocV2 with MT3 keycaps, Pica40
 
 ## Case files (STL - 3d printed)
 
+⚠️TRRS is not supported yet⚠️
+
 - Wired - [Left with encoder hole](stl/Top-wired-left-enc.stl), [Right](stl/Top-wired-right.stl)
 - Wireless - [Left with encoder hole](stl/Top-wireless-left-enc.stl), [Right with encoder hole](stl/Top-wireless-right.stl)
 - Universal (all holes - wired, wireless, encoders) - [Left](stl/Top-left-enc.stl), [Right](stl/Top-right-enc.stl)
