@@ -65,7 +65,7 @@ Pica40 family - ChocV2 with low profile keycaps, ChocV2 with MT3 keycaps, Pica40
 - Wired - [Left with encoder hole](stl/Top-wired-left-enc.stl), [Right](stl/Top-wired-right.stl)
 - Wireless - [Left with encoder hole](stl/Top-wireless-left-enc.stl), [Right with encoder hole](stl/Top-wireless-right.stl)
 - Universal (all holes - wired, wireless, encoders) - [Left](stl/Top-left-enc.stl), [Right](stl/Top-right-enc.stl)
-- _[Experimental]_ Bottom plate with cutouts for all components, replaces regular bottom plate to reduce overall height. Not compatible with 3d printed case (it's too tall). [MX version](stl/Bottom-cutout.stl), [Choc V2](stl/Bottom-cutout-choc.stl)
+- _[Experimental]_ Bottom plate with cutouts for all components, replaces regular bottom plate to reduce overall height. Not compatible with 3d printed case (it's too tall). MX version - [left](stl/Bottom-cutout-left.stl), [right](stl/Bottom-cutout-right.stl), Choc V2 - [left](stl/Bottom-cutout-choc-left.stl), [right](stl/Bottom-cutout-choc-right.stl)
 
 ## Case files (DXF - for metal/acrylic)
 
