@@ -1,9 +1,3 @@
-[submodule "lib/kbd"]
-	path = lib/kbd
-	url = ../../foostan/kbd.git
-[submodule "lib/Type-C.pretty"]
-	path = lib/Type-C.pretty
-	url = ../../ai03-2725/Type-C.pretty.git
-[submodule "lib/kleeb"]
-	path = lib/kleeb
-	url = ../../crides/kleeb
+[submodule "lib/zzkeeb"]
+	path = lib/zzkeeb
+	url = ../zzkeeb.git
