@@ -64,8 +64,7 @@ Pica40 family - ChocV2 with low profile keycaps, ChocV2 with MT3 keycaps, Pica40
 
 - Wired - [Left with encoder hole](stl/Top-wired-left-enc.stl), [Right](stl/Top-wired-right.stl)
 - Wireless - [Left with encoder hole](stl/Top-wireless-left-enc.stl), [Right with encoder hole](stl/Top-wireless-right.stl)
-- Universal (all holes - wired, wireless, encoders) - [Left](stl/Top-left-enc.stl), [Right](stl/Top-right-enc.stl)
-- _[Experimental]_ Bottom plate with cutouts for all components, replaces regular bottom plate to reduce overall height. Not compatible with 3d printed case (it's too tall). MX version - [left](stl/Bottom-cutout-left.stl), [right](stl/Bottom-cutout-right.stl), Choc V2 - [left](stl/Bottom-cutout-choc-left.stl), [right](stl/Bottom-cutout-choc-right.stl)
+- Bottom plate with cutouts for all components, replaces regular bottom plate to reduce overall height. Not compatible with 3d printed case (it's too tall) and only MX version - [left](stl/Bottom-cutout-left.stl), [right](stl/Bottom-cutout-right.stl)
 
 ## Case files (DXF - for metal/acrylic)
 
@@ -76,14 +75,14 @@ Pica40 family - ChocV2 with low profile keycaps, ChocV2 with MT3 keycaps, Pica40
 ## Bill of materials
 
 - PCBs
-- FR4/Metal/acrylic bottom plates
+- FR4/Metal/acrylic bottom plates.
 - 2 XIAO MCUs - [RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) for wired version, [nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) for wireless
 - 40 SMD SOD-123 1N4148 diodes
 - 1 or 2 EC11/12 rotary encoder with knob
-- _[Hotswap version]_ FR4/Metal top plates (and optionally covers) or 3d printed case
-- _[Hotswap version]_ 40 hotswap sockets
-- _[Hotswap version]_ 7mm M2 standoffs, 4-5mm M2 screws
-- _[Soldered version]_ 6mm M2 screws, M2 nuts and washers
+- _[MX Hotswap version]_ FR4/Metal top plates (and optionally covers) or 3d printed case
+- _[MX Hotswap version]_ 40 hotswap sockets
+- _[MX Hotswap version]_ 7mm M2 standoffs, 4-5mm M2 screws
+- _[ChocV2 Soldered version]_ 6mm M2 screws, M2 nuts and washers
 - _[Wired only]_ [2x USB-C 16pin connector](https://www.aliexpress.com/item/1005003670899595.html)
 - _[Wireless only]_ [2x on/off toggle MSK-12C02](https://www.aliexpress.com/item/4000685483225.html)
 - _[Wireless only]_ 2x Li-Ion 3.7V battery
