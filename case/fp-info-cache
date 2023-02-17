@@ -1,120 +1,498 @@
-28299344782867
-pica
-CherryMX_Hotswap
-
-
+119001379349705
+zzkeeb
+Connector_FFC-FPC-vertical-12pin
+Molex 0.50mm Pitch Easy-On Type FFC/FPC, 52559-3652, 36 Circuits (https://www.molex.com/pdm_docs/sd/525593652_sd.pdf)
+connector Molex top entry
 0
-2
-2
-pica
-CherryMX_Hotswap_1.5
-
-
+14
+12
+zzkeeb
+Connector_FPC-FFC-adapter-12pin
+Through hole straight pin header, 2x06, 2.54mm pitch, double rows
+Through hole pin header THT 2x06 2.54mm double row
 0
-2
-2
-pica
-CherryMX_Hotswap_ChocV2
-
-
-0
-5
-2
-pica
-CherryMX_Hotswap_ChocV2_1.5
-
-
-0
-5
-2
-pica
-D3_SMD
-Resitance 3 pas
-R
-0
-2
-2
-pica
-EC11_Hole
+12
+12
+zzkeeb
+Connector_HRO-TYPE-C-31-M-12-cutout
 
 
 0
 0
 0
-pica
-HRO-TYPE-C-31-M-12-data
+zzkeeb
+Connector_HRO-TYPE-C-31-M-12-data
 
 
 0
 12
 9
-pica
-JST_PH_S2B-PH-K_1x02_P2.00mm
+zzkeeb
+Connector_JST-1x02-2.00mm
 JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
 connector JST PH top entry
 0
 2
 2
-pica
-MJ-4PP-9_1side
+zzkeeb
+Connector_JST-1x02-2.00mm-cutout
+JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+0
+0
+zzkeeb
+Connector_JST_PH_S8B-PH-K_1x08_P2.00mm_Horizontal
+JST PH series connector, S8B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+8
+8
+zzkeeb
+Connector_TRRS
 
 
 0
 4
 4
-pica
-MountingHole_4.5mm
-Mounting Hole 4.5mm, no annular
-mounting hole 4.5mm no annular
+zzkeeb
+Connector_TRRS-cutout-bottom
+
+
 0
 0
 0
-pica
+zzkeeb
+Connector_TRRS-cutout-bottom-reversible
+
+
+0
+0
+0
+zzkeeb
+Connector_TRRS-cutout-resersible
+
+
+0
+0
+0
+zzkeeb
+Connector_TRRS-cutout-top
+
+
+0
+0
+0
+zzkeeb
+Connector_TRRS-cutout-top-resersible
+
+
+0
+0
+0
+zzkeeb
+Connector_TRRS-reversible
+
+
+0
+8
+4
+zzkeeb
+Connector_TRRS-reversible-flip3d
+
+
+0
+8
+4
+zzkeeb
+Connector_USB-C-mid-mount-ali
+
+
+0
+20
+17
+zzkeeb
+Connector_USB-C-mid-mount-ali-cutout
+
+
+0
+0
+0
+zzkeeb
+Connector_USB-C-mid-mount-ali-data
+
+
+0
+16
+13
+zzkeeb
+Connector_USB-C-mid-mount-ali-reversible-data
+
+
+0
+28
+13
+zzkeeb
+Connector_USB-C-mid-mount-ali-reversible-data-flip3d
+
+
+0
+28
+13
+zzkeeb
+Diode_1N4148-SOD123
+Resitance 3 pas
+R
+0
+2
+2
+zzkeeb
+Diode_1N4148-SOD123-cutout
+Resitance 3 pas
+R
+0
+0
+0
+zzkeeb
+Diode_1N4148-SOD123-reversible
+Resitance 3 pas
+R
+0
+4
+2
+zzkeeb
+Diode_1N4148-SOD123-reversible-flip3d
+Resitance 3 pas
+R
+0
+4
+2
+zzkeeb
+Hole_Breakaway-Tabs
+
+
+0
+0
+0
+zzkeeb
+Hole_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+zzkeeb
+Hole_M2-cutout
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+zzkeeb
+Hole_M2-spacer
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+zzkeeb
+LED_SK6812-MINI-E
+
+
+0
+4
+4
+zzkeeb
+LED_SK6812-MINI-E-cutout
+
+
+0
+0
+0
+zzkeeb
+LED_SK6812-MINI-E-reversible
+
+
+0
+8
+4
+zzkeeb
+LED_SK6812-MINI-E-reversible-flip3d
+
+
+0
+8
+4
+zzkeeb
+Logo_pica
+
+
+0
+0
+0
+zzkeeb
+Logo_pica-mirrored
+
+
+0
+0
+0
+zzkeeb
+Logo_seeed
+
+
+0
+0
+0
+zzkeeb
+MCU_rp2040-zero-cutout
+
+
+0
+0
+0
+zzkeeb
+MCU_rp2040-zero-smd
+
+
+0
+23
+23
+zzkeeb
+MCU_rp2040-zero-tht-pads
+
+
+0
+33
+33
+zzkeeb
+MCU_xiao-ble-smd
+
+
+0
+22
+22
+zzkeeb
+MCU_xiao-ble-tht
+
+
+0
+22
+22
+zzkeeb
+MCU_xiao-cutout
+
+
+0
+0
+0
+zzkeeb
+Pointing_Cirque-adapter
+
+
+0
+4
+4
+zzkeeb
+Pointing_Cirque-adapter-reversible
+
+
+0
+4
+4
+zzkeeb
 RotaryEncoder_EC11
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
 0
+7
 5
+zzkeeb
+RotaryEncoder_EC11-cutout-bottom
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+zzkeeb
+RotaryEncoder_EC11-cutout-top
+
+
+0
+0
+0
+zzkeeb
+RotaryEncoder_EC11-cutout-top-wide
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+zzkeeb
+RotaryEncoder_EC11-reversible
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
 5
-pica
-logo
+zzkeeb
+RotaryEncoder_EC11-reversible-flip-3d
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+5
+zzkeeb
+RotaryEncoder_EVQWGD001
+
+
+0
+6
+6
+zzkeeb
+RotaryEncoder_EVQWGD001-cutout-bottom
 
 
 0
 0
 0
-pica
-logo_mirror
+zzkeeb
+RotaryEncoder_EVQWGD001-cutout-top
 
 
 0
 0
 0
-pica
-seeed-logo
+zzkeeb
+SolderJumper-1.3mm-cutout
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+0
+0
+zzkeeb
+Switch_ChocV1-cutout-bottom-hotswap
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+0
+0
+zzkeeb
+Switch_ChocV1-cutout-bottom-hotswap-mirrored
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+0
+0
+zzkeeb
+Switch_ChocV1-cutout-top
 
 
 0
 0
 0
-pica
-spacer_m2_3.4
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
+zzkeeb
+Switch_ChocV1-hotswap
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
 0
+2
+2
+zzkeeb
+Switch_ChocV1-hotswap-reversible
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
 0
+4
+2
+zzkeeb
+Switch_ChocV1-hotswap-reversible-flip3d
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
 0
-pica
-thread_m2_hole
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-0
-0
-pica
-xiao-ble-tht
+4
+2
+zzkeeb
+Switch_ChocV1-reversible
 
 
 0
-22
-22
+3
+2
+zzkeeb
+Switch_ChocV2-cutout-bottom
+
+
+0
+0
+0
+zzkeeb
+Switch_MX-cutout-bottom-hotswap
+
+
+0
+0
+0
+zzkeeb
+Switch_MX-cutout-top
+
+
+0
+0
+0
+zzkeeb
+Switch_MX-hotswap
+
+
+0
+2
+2
+zzkeeb
+Switch_MX-hotswap-1.5
+
+
+0
+2
+2
+zzkeeb
+Switch_MX-hotswap-1.5-reversible
+
+
+0
+4
+2
+zzkeeb
+Switch_MX-hotswap-reversible
+
+
+0
+4
+2
+zzkeeb
+Switch_MXChocV2-hotswap
+
+
+0
+5
+2
+zzkeeb
+Switch_MXChocV2-hotswap-1.5
+
+
+0
+5
+2
+zzkeeb
+Switch_SPDT-PCM12
+Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
+
+0
+7
+3
+zzkeeb
+Switch_SPDT-PCM12-cutout
+Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
+
+0
+0
+0
