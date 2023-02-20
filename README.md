@@ -34,18 +34,18 @@ _Pica pica - european (common) magpie_
 
 wired version with 3d printed case
 
-<img src='images\3d-printed-case.jpg' width="600">
-<img src='images\3d-printed-case-front.jpg' width="600">
+![](./images/3d-printed-case.jpg)
+![](./images/3d-printed-case-front.jpg)
 
 wired/wireless versions with Choc V2
 
-<img src='images\full.jpg' width="600">
-<img src='images\left.jpg' width="600">
-<img src='images\right.jpg' width="600">
+![](./images/full.jpg)
+![](./images/left.jpg)
+![](./images/right.jpg)
 
 Pica40 family - ChocV2 with low profile keycaps, ChocV2 with MT3 keycaps, Pica40 v1 with MT3 keycaps, regular switches and hotswap sockets
 
-<img src='images\height.jpg' width="600">
+![](./images/height.jpg)
 
 ## Firmware
 
