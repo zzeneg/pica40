@@ -87,7 +87,7 @@ Bottom:
 - _[ChocV2 soldered version]_ FR4/metal/acrylic bottom plates
 - _[ChocV2 soldered version]_ 6mm M2 screws, M2 nuts and washers
 - _[ChocV2 soldered version]_ 6mm M2 screws, M2 nuts and washers
-- _[Wired only]_ [USB-C 16pin 1.6mm mid-mount connectors](https://www.aliexpress.com/item/1005003422447465.html)
+- _[Wired only]_ [USB-C 16pin connectors](https://www.aliexpress.com/item/1005003670899595.html)
 - _[Wired only]_ [TRRS PJ-320A connectors](https://www.aliexpress.com/item/1005001928651798.html)
 - _[Wireless only]_ [2x on/off toggle MSK-12C02](https://www.aliexpress.com/item/4000685483225.html)
 - _[Wireless only]_ 2x Li-Ion 3.7V battery
@@ -101,7 +101,6 @@ Bottom:
 ### V2.1
 
 - added TRRS support
-- mid-mount USB-C
 - wired version supports rotary encoder on any side
 - remove all files for FR4/acrylic/metal sandwich case, 3D printing is better and cheaper
 - improved 3D printed case with a new shape and parts
