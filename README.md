@@ -28,18 +28,16 @@ _Pica pica - european (common) magpie_
 - on/off toggle
 - battery connectors
 
-## Photos (V2 version)
+## Photos
 
 wired version with 3d printed case
 
-![](./images/3d-printed-case.jpg)
-![](./images/3d-printed-case-front.jpg)
+![](./images/v2.1-top.jpg)
+![](./images/v2.1-bottom.jpg)
 
 wired/wireless versions with Choc V2
 
 ![](./images/full.jpg)
-![](./images/left.jpg)
-![](./images/right.jpg)
 
 Pica40 family - ChocV2 with low profile keycaps, ChocV2 with MT3 keycaps, Pica40 v1 with MT3 keycaps, regular switches and hotswap sockets
 
@@ -58,39 +56,47 @@ Pica40 family - ChocV2 with low profile keycaps, ChocV2 with MT3 keycaps, Pica40
 
 ## Case files (STL - 3d printed, MX hotswap only)
 
-Top:
+All files are in [stl](stl) folder.
+
+### Top:
+
 ![](./images/render-top.png)
 
-- wired left [with](stl/top_case%20v7_left-wired.stl) encoder hole and [without](stl/top_case%20v7_left-wired-no-enc.stl)
-- wired right [with](stl/top_case%20v7_right-wired.stl) encoder hole and [without](stl/top_case%20v7_right-wired-no-enc.stl)
-- wireless [left](stl/top_case%20v7_left-wireless.stl) and [right](stl/top_case%20v7_right-wireless.stl)
+- wired/wireless versions
+- with and without encoders
+- normal and thin versions (see bottom parts for difference)
 
-Bottom:
+### Bottom:
+
+Thin version - just cutouts for all elements, as low as it can be. May be combined with normal top case and metal bottom plate for additional weight.
+![](./images/render-bottom-thin.png)
+Normal (with legs and without):
 ![](./images/render-bottom.png)
-
-- [Left](stl/bottom_case%20v10_left.stl) and [right](stl/bottom_case%20v10_right.stl)
 
 ## Case files (DXF - for metal/acrylic)
 
-- [Bottom for MX hotswap with 3D printed case](dxf/bottom-curved.dxf)
+- [Curved bottom for MX hotswap with 3D printed case](dxf/bottom-curved.dxf)
 - [Bottom for soldered ChocV2](dxf/bottom.dxf)
+- [MCU cover](dxf/cover.dxf)
+- [MCU cover with encoder hole](dxf/cover-hole.dxf)
 
 ## Bill of materials
 
 - PCBs
 - 2 XIAO MCUs - [RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) for wired version, [nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) for wireless
 - 40 SMD SOD-123 1N4148 diodes
-- 1 or 2 EC11/12 rotary encoder with knob
-- _[MX hotswap version]_ 3d printed case (top and bottom)
+- 1 or 2 EC11/12 rotary encoder with knob (diameter up to 20mm)
+- _[MX hotswap version]_ 3d printed case (top and bottom, left and right - 4 files)
 - _[MX hotswap version]_ 40 hotswap sockets
-- _[MX hotswap version]_ 4mm M2 standoffs, 4-5mm M2 screws
-- _[ChocV2 soldered version]_ FR4/metal/acrylic bottom plates
-- _[ChocV2 soldered version]_ 6mm M2 screws, M2 nuts and washers
+- _[MX hotswap version]_ [M2 standoffs](https://www.aliexpress.com/item/4001271908929.html) (4mm for thin, 5mm for normal), 3mm [M2 screws with flat head](https://www.aliexpress.com/item/4001248931159.html)
+- _[MX hotswap thin version]_ [8x2mm magnets](https://www.aliexpress.com/item/1005002285176336.html) (optional)
+- _[ChocV2 soldered version]_ FR4/metal/acrylic bottom plates, metal/acrylic MCU cover (optional)
 - _[ChocV2 soldered version]_ 6mm M2 screws, M2 nuts and washers
 - _[Wired only]_ [USB-C 16pin connectors](https://www.aliexpress.com/item/1005003670899595.html)
 - _[Wired only]_ [TRRS PJ-320A connectors](https://www.aliexpress.com/item/1005001928651798.html)
 - _[Wireless only]_ [2x on/off toggle MSK-12C02](https://www.aliexpress.com/item/4000685483225.html)
-- _[Wireless only]_ 2x Li-Ion 3.7V battery
+- _[Wireless only]_ 2x Li-Ion 3.7V battery (up to 25x14x5 for standard case)
+- Rubber [sheet](https://www.aliexpress.com/item/1005003938672544.html) or [5x15 legs](https://www.aliexpress.com/item/1005004431841328.html)
 
 ## Build log
 
@@ -102,7 +108,7 @@ Bottom:
 
 - added TRRS support
 - wired version supports rotary encoder on any side
-- remove all files for FR4/acrylic/metal sandwich case, 3D printing is better and cheaper
+- remove unused for FR4/acrylic/metal sandwich case, 3D printing is better and cheaper
 - improved 3D printed case with a new shape and parts
 
 ### V2
