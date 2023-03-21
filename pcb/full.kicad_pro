@@ -378,7 +378,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../3dprint/pcb.step",
+      "step": "../case/pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
