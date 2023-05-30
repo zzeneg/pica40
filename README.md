@@ -120,3 +120,6 @@ Normal (with legs and without):
 ### V1
 
 - split with single Pro Micro based MCU and handwired connection
+
+## Support
+If you like my work and want to support my future designs, please consider [sponsorship](https://github.com/sponsors/zzeneg).
