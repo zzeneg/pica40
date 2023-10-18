@@ -4,9 +4,6 @@ Split keyboard with 40 keys using XIAO controllers.
 
 _Pica pica - european (common) magpie_
 
-####  🏭 _Extra PCBs available_ 
-_I have some extras laying around, ping me on discord/reddit if interested (EU only)._ 💶
-
 ## Features
 
 - 40 keys
