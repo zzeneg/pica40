@@ -68,9 +68,10 @@ All files are in [stl](stl) folder.
 
 ### Bottom:
 
-Thin version - just cutouts for all elements, as low as it can be. May be combined with normal top case and metal bottom plate for additional weight.
-![](./images/render-bottom-thin.png)
-Normal (with legs and without):
+Normal version - solid cover, cutouts for legs.
+Thin version - 1.2mm lower than normal version, cutouts for all elements. Has additional cutouts for magnets.
+
+Thin vs normal:
 ![](./images/render-bottom.png)
 
 ## Case files (DXF - for metal/acrylic)
@@ -96,7 +97,7 @@ Normal (with legs and without):
 - _[Wired only]_ [TRRS PJ-320A connectors](https://www.aliexpress.com/item/1005001928651798.html)
 - _[Wireless only]_ [2x on/off toggle MSK-12C02](https://www.aliexpress.com/item/4000685483225.html)
 - _[Wireless only]_ 2x Li-Ion 3.7V battery (up to 25x14x5 for standard case)
-- Rubber [sheet](https://www.aliexpress.com/item/1005003938672544.html) or [5x15 legs](https://www.aliexpress.com/item/1005004431841328.html)
+- [7mm legs](https://www.aliexpress.com/item/1005002995402961.html) or [rubber sheet](https://www.aliexpress.com/item/1005003938672544.html) (recommended for thin version)
 
 ## Build log
 
@@ -122,4 +123,5 @@ Normal (with legs and without):
 - split with single Pro Micro based MCU and handwired connection
 
 ## Support
+
 If you like my work and want to support my future designs, please consider [sponsorship](https://github.com/sponsors/zzeneg).
