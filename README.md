@@ -28,6 +28,9 @@ _Pica pica - european (common) magpie_
 - on/off toggle
 - battery connectors
 
+> [!NOTE]
+> I created a beta version with small improvements for wireless version - https://github.com/zzeneg/pica40/tree/v2.2-beta?tab=readme-ov-file#v22. I'm fairly confident it should work but I'm not able to verify it at the moment. You can order it at your own risk, let me know if everything worked.
+
 ## Photos
 
 wired version with 3d printed case
