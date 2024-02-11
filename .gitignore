@@ -1,6 +1,7 @@
 */*-backups
 
 pcb/gerber
+pcb/jlcpcb
 
 case/gerber
 case/dxf

@@ -105,6 +105,11 @@ Thin vs normal:
 
 ## Changelog
 
+### V2.2
+
+- improve XIAO BLE footprints for easier SMD-like soldering
+- remove ground planes for better wireless performance
+
 ### V2.1
 
 - added TRRS support
