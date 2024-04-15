@@ -1,7 +1,13 @@
 */*-backups
 
 pcb/gerber
+case/dxf
+pcb/production/*
+!pcb/production/*.zip
 
 case/gerber
 case/dxf
+case/production/*
+!case/production/*.zip
+
 
